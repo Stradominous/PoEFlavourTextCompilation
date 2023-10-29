@@ -10,7 +10,7 @@ You can also find the queries in: https://github.com/Stradominous/PoEFlavourText
 
 Here is the data that was fully gathered using the queries:
 * Unique Items
-* Passives (Atlas and Passive)
+* Passives (Atlas and Skill Tree)
 * Areas
 * Quest Items (Including Heist)
 * Prophecies
