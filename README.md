@@ -5,6 +5,7 @@ Path of Exile Flavour Text Compilation
 
 A lot of this data was created through poewiki CargoTable queries.
 You can read more on that here: https://www.poewiki.net/wiki/Path_of_Exile_Wiki:Data_query_API
+
 You can also find the queries in: https://github.com/Stradominous/PoEFlavourTextCompilation/blob/main/Flavour%20Text%20Compilation/PoE%20Wiki%20Queries.txt
 
 Here is the data that was fully gathered using the queries:
@@ -21,10 +22,17 @@ Here is the data that was made by formatting existing data into JSON:
 * NPC Text Audio March 2023
 * Ancestor Equipment Data
 
+Note: Prophecies and Divination Cards do not have Rewards. I am planning on adding those by hand.
+
 You can find a full compilation of all the data in: https://github.com/Stradominous/PoEFlavourTextCompilation/blob/main/Flavour%20Text%20Compilation/Zodiac.json
+
+If you have any suggestions / requests please message me on Discord. My username is: "stradominous"
+
+I am planning to keep this data up to date. Probably once a league whenever new dialogue / flavour text is released.
 
 It is organized with the following structure:
 
+```json
 {
   "Zodiac": {
     "UniqueItems": [
@@ -108,7 +116,4 @@ It is organized with the following structure:
     ]
   }
 }
-
-If you have any suggestions / requests please message me on Discord. My username is: "stradominous"
-
-I am planning to keep this data up to date. Probably once a league whenever new dialogue / flavour text is released!
+```
