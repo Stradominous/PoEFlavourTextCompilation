@@ -21,6 +21,94 @@ Here is the data that was made by formatting existing data into JSON:
 * NPC Text Audio March 2023
 * Ancestor Equipment Data
 
+You can find a full compilation of all the data in: https://github.com/Stradominous/PoEFlavourTextCompilation/blob/main/Flavour%20Text%20Compilation/Zodiac.json
+
+It is organized with the following structure:
+
+{
+  "Zodiac": {
+    "UniqueItems": [
+      {
+        "name": "",
+        "release version": "",
+        "flavour text": "",
+        "drop enabled": "",
+        "drop areas": null,
+        "Mods": ""
+      }
+    ],
+    "QuestItems": [
+      {
+        "name": "",
+        "frame type": "",
+        "is in game": "",
+        "flavour text": ""
+      }
+    ],
+    "Prophecies": [
+      {
+        "name": "",
+        "frame type": "",
+        "class": "",
+        "is in game": "",
+        "flavour text": ""
+      }
+    ],
+    "NPCTextAudioMarch2023": [
+      {
+        "Id": "",
+        "Text": ""
+      }
+    ],
+    "MapFragments": [
+      {
+        "name": "",
+        "frame type": "",
+        "is in game": "",
+        "flavour text": ""
+      }
+    ],
+    "Keystones": [
+      {
+        "name": "",
+        "stat text": "",
+        "flavour text": ""
+      }
+    ],
+    "DivinationCards": [
+      {
+        "name": "",
+        "is in game": "",
+        "flavour text": ""
+      }
+    ],
+    "Areas": [
+      {
+        "name": "",
+        "area type tags": "",
+        "tags": "",
+        "flavour text": ""
+      }
+    ],
+    "AncestorNPCDialogue": [
+      {
+        "NPC": "",
+        "Id": "",
+        "Text": ""
+      }
+    ],
+    "AncestorEquipment": [
+      {
+        "Equipment": "",
+        "Tribe": "",
+        "Favour": "",
+        "Effects": "",
+        "Flavour Text": ""
+      }
+    ]
+  }
+}
+
 If you have any suggestions / requests please message me on Discord. My username is: "stradominous"
 
 I am planning to keep this data up to date. Probably once a league whenever new dialogue / flavour text is released!
