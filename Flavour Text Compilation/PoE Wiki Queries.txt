@@ -1,0 +1,140 @@
+UNIQUE ITEMS
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items,
+            item_mods,
+            mods
+        &join_on=
+            items._pageID=item_mods._pageID,
+            item_mods.id=mods.id
+        &fields=
+            items.name,
+            items.release_version,
+            items.flavour_text,
+            items.drop_enabled,
+            items.drop_areas,
+            GROUP_CONCAT(mods.stat_text_raw)=Mods
+        &where=
+            rarity=%22Unique%22
+        &group_by=
+            items.name
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+PASSIVE SKILLS
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            passive_skills
+        &fields=
+            name,
+            stat_text,
+            flavour_text
+        &where=
+            is_keystone="1"
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+AREAS
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            areas
+        &fields=
+            name,
+            area_type_tags,
+            tags,
+            flavour_text
+        &where=
+            flavour_text!=""
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+QUEST ITEMS (Including Heist)
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items
+        &fields=
+            name,
+            frame_type,
+            is_in_game,
+            flavour_text
+        &where=
+            flavour_text!=%22%22%20AND%20class_id=%22QuestItem%22
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+PROPHECIES
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items
+        &fields=
+            name,
+            frame_type,
+            is_in_game,
+            flavour_text
+        &where=
+            flavour_text!=%22%22%20AND%20class_id=%22StackableCurrency%22
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+Divination Cards
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items
+        &fields=
+            name,
+            frame_type,
+            is_in_game,
+            flavour_text
+        &where=
+            flavour_text!=%22%22%20AND%20class_id=%22DivinationCard%22
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+Map Fragments
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items
+        &fields=
+            name,
+            frame_type,
+            is_in_game,
+            flavour_text
+        &where=
+            flavour_text!=%22%22%20AND%20class_id=%22MapFragment%22
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0

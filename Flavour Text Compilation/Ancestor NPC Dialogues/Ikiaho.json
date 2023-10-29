@@ -1,0 +1,652 @@
+[
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoMoonsGraceRandom",
+        "Text": "Moon's grace!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoMoonsGrace2",
+        "Text": "Moon's grace!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoMoonsGrace3",
+        "Text": "Moon's grace!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoSilverCometRandom",
+        "Text": "Silver comet!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoSilverComet2",
+        "Text": "Silver comet!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoSilverComet3",
+        "Text": "Silver comet!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoLunarGaleRandom",
+        "Text": "Lunar gale!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoLunarGale2",
+        "Text": "Lunar gale!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "AncestralIkiahoLunarGale3",
+        "Text": "Lunar gale!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoLikesPlayerIsChampion",
+        "Text": "The makanga will win again. I am sure of it."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoNeutralPlayerIsChampion",
+        "Text": "Makanga or not, this one's up in the air."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoDislikesPlayerIsChampion",
+        "Text": "Will someone please take down this makanga already?"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoLikesPlayerLostLast",
+        "Text": "Win this time, outsider."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoNeutralPlayerLostLast",
+        "Text": "The outsider might be able to take this one."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoDislikesPlayerLostLast",
+        "Text": "There's no way the outsider wins this battle."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoLikesPlayerNoRecord",
+        "Text": "I will be watching your fighting style carefully, outsider.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoNeutralPlayerNoRecord",
+        "Text": "If nothing else, this will be new."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoDislikesPlayerNoRecord",
+        "Text": "I'm not convinced letting an outsider participate is a good idea."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnAkoya",
+        "Text": "Surely the followers of the God of War can handle a simple battle."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnKahuturoa",
+        "Text": "The Night is all-encompassing. It cannot be defeated."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnKaom",
+        "Text": "Look at all those warriors following Kaom! Have they not heard what happens to his men?"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnKiloava",
+        "Text": "Bluster like thunder, strike like lightning, Kiloava."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnMaata",
+        "Text": "Maata's probably got this one. Uses his head."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnRakiata",
+        "Text": "The sea is most beautiful when it reflects the Moon!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnTawhanuku",
+        "Text": "Tawhanuku! Bring death to the field!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnUtula",
+        "Text": "It's amazing the Kitavans can move at all with such gorged bellies."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsOnAhuana",
+        "Text": "How does such a heavy ego stay hanging in the sky? Ramako should fall, so that the Moon may rise instead."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerWonLast1",
+        "Text": "You reached your apex in our last fight. Now, you will fall."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerWonLast2",
+        "Text": "You reached your apex in our last fight. Now, you will fall."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLostLast1",
+        "Text": "Let us see what you have learned since our last conflict."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLostLast2",
+        "Text": "Let us see what you have learned since our last conflict."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreSoldiers1",
+        "Text": "You may have more warriors than us, but the Moon has always shined alone."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreSoldiers2",
+        "Text": "You may have more warriors than us, but the Moon has always shined alone."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessSoldiers1",
+        "Text": "You think you can defeat us while outnumbered? Intriguing.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessSoldiers2",
+        "Text": "You think you can defeat us while outnumbered? Intriguing.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreItems1",
+        "Text": "A well-equipped enemy is more satisfying to defeat.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreItems2",
+        "Text": "A well-equipped enemy is more satisfying to defeat.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessItems1",
+        "Text": "Curious choice of equipment..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessItems2",
+        "Text": "Curious choice of equipment..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreFieldItems1",
+        "Text": "I appreciate your battlefield strategy. That will make this interesting.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerMoreFieldItems2",
+        "Text": "I appreciate your battlefield strategy. That will make this interesting.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessFieldItems1",
+        "Text": "Battles are often won or lost based on the field itself. We seem to have put more thought into our strategy..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoFightBeginsPlayerLessFieldItems2",
+        "Text": "Battles are often won or lost based on the field itself. We seem to have put more thought into our strategy..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry1",
+        "Text": "For Arohongui!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry2",
+        "Text": "For Arohongui!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry3",
+        "Text": "By moonlight!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry4",
+        "Text": "By moonlight!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry5",
+        "Text": "We fight!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoWarcry6",
+        "Text": "We fight!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed1",
+        "Text": "Ugh!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed2",
+        "Text": "Ugh!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed3",
+        "Text": "They got one!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed4",
+        "Text": "They got one!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed5",
+        "Text": "We'll have to fight harder!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTeamTotemDestroyed6",
+        "Text": "We'll have to fight harder!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed1",
+        "Text": "Ah! I'm out!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed2",
+        "Text": "Ah! I'm out!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed3",
+        "Text": "They got me!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed4",
+        "Text": "They got me!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed5",
+        "Text": "Fight harder, my warriors!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoTotemDestroyed6",
+        "Text": "Fight harder, my warriors!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed1",
+        "Text": "That's one for us!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed2",
+        "Text": "That's one for us!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed3",
+        "Text": "Now is the time!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed4",
+        "Text": "Now is the time!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed5",
+        "Text": "We have the advantage!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTeamTotemDestroyed6",
+        "Text": "We have the advantage!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed1",
+        "Text": "Their leader is down!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed2",
+        "Text": "Their leader is down!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed3",
+        "Text": "They are vulnerable!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed4",
+        "Text": "They are vulnerable!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed5",
+        "Text": "Get the rest!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoYourTotemDestroyed6",
+        "Text": "Get the rest!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentDefeatedYou1",
+        "Text": "Victory is ours!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentDefeatedYou2",
+        "Text": "Victory is ours!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentWhenDefeated1",
+        "Text": "I thought we had that one..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentWhenDefeated2",
+        "Text": "I thought we had that one..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsFromStandsOnMatch1",
+        "Text": "That was an interesting match."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentsFromStandsOnMatch2",
+        "Text": "That was an interesting match."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseItem1",
+        "Text": "That was made with care."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseItem2",
+        "Text": "That was made with care."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseItem3",
+        "Text": "Employ it wisely."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseItem4",
+        "Text": "Employ it wisely."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseFieldItem1",
+        "Text": "That will help you win, if used well."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseFieldItem2",
+        "Text": "That will help you win, if used well."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseFieldItem3",
+        "Text": "Deal."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentPurchaseFieldItem4",
+        "Text": "Deal."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentInspectRecruits1",
+        "Text": "This is what we have to offer."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentInspectRecruits2",
+        "Text": "This is what we have to offer."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentInspectRecruits3",
+        "Text": "What you see is what you get."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentInspectRecruits4",
+        "Text": "What you see is what you get."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentRecruitRecruit1",
+        "Text": "Your choice is made."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentRecruitRecruit2",
+        "Text": "Your choice is made."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentRecruitRecruit3",
+        "Text": "Okay."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentRecruitRecruit4",
+        "Text": "Okay."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoLikesHerTurtle1",
+        "Text": "Tortoises are nature's armored knights."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Ahuana's Defeat",
+        "Text": "Ahuana is very positive, even in defeat. I don't despise positivity, I just don't often feel it.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Ahuana's Victory",
+        "Text": "It doesn't matter that you lost to Ahuana. You'll have plenty of chances to try again.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Kaom's Defeat",
+        "Text": "Kaom will not learn humility from his defeat."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Kaom's Victory",
+        "Text": "Defeating you likely just grew Kaom's ego three sizes."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Utula's Defeat",
+        "Text": "Utula needs a lesson enforced by strength. I won't let him tear this place down."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Utula's Victory",
+        "Text": "Don't let Utula defeat you again. He might think he can take us all on."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Kahuturoa's Victory",
+        "Text": "Your victory against Kahuturoa would not have happened a thousand years ago. He's fighting with less interest these days."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoPlayerLostVsKahuturoa",
+        "Text": "Kahuturoa defeated you, as expected. You'll have to strategise to win against him.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Kiloava's Defeat",
+        "Text": "The first Herald of War does not enjoy losing."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Kiloava's Victory",
+        "Text": "Kiloava greatly enjoys battle. I'm sure he enjoyed defeating you, too."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Rakiata's Defeat",
+        "Text": "I'm rather amazed you managed to defeat Rakiata. I'll be watching you, outsider."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Rakiata's Victory",
+        "Text": "Rakiata has a strength most aren't expecting. I'm sure you felt that, though, when you got hit in the face."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Tawhanuku's Defeat",
+        "Text": "Hmm. Tawhanuku lost a battle. Curious."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Tawhanuku's Victory",
+        "Text": "I expected Tawhanuku to defeat you. She chooses her battles carefully."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Ikiaho's Defeat",
+        "Text": "The Moon can't stay high in the sky forever. I didn't expect to win every time."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Ikiaho's Victory",
+        "Text": "The Moon soars high above the mortal world. So it is with battle as well."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Match Victory",
+        "Text": "That was certainly a victory, outsider."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Match Loss",
+        "Text": "You lost, outsider. You must do better."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentOnPurchaseItemKahuturoa",
+        "Text": "Rongokurai, ally to the night, ally to mortals!   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentOnPurchaseItemRakiata",
+        "Text": "They'll never let you down."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentOnPurchaseEliteKahuturoa",
+        "Text": "A strong choice."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoCommentOnPurchaseEliteRakiata",
+        "Text": "No one can fight the sea and win!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoConversationWithKahuturoaOne",
+        "Text": "The answer's still no, Kahu!"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoConversationWithRakiataOne",
+        "Text": "I wish I could see the Moon from here."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoConversationWithRakiataTwo",
+        "Text": "That would be nice..."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "IkiahoRandomShout1",
+        "Text": "Does anyone have any meat left over from today's meal? I'm still hungry.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Arohongui",
+        "Text": "The Daughter of the Moon has my tribe's eternal loyalty. Alone among the gods, she has no agenda of her own. The rest all seek something endlesslywhatever it was that gave each of them a divine sparkbut Arohongui was born divine, and chose to aid the Karui people as much as she could. She did not ask us for loyalty, and that is why she has it."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "The Deceiver",
+        "Text": "Ramako's claim that someone impersonated him and visited with Lani Hua in his guise... may be true. We follow Arohongui with utmost loyalty, but my tribe certainly noticed that she never expressed any divine abilities having to do with light or warmth. When tending wounded warriors, she would often give them visions of beautiful landscapes and shining waters to help calm them. When tending the dying, she gave them visions of their family, until the spirits of their Ancestors truly greeted them here in the Halls of the Dead. These are acts of mercy and kindness, but they are not powers of the Sun or the Moon. I have long suspected that there is something within each of us, some pattern or essence of who we are, that each parent passes down to a child. If my suspicion is correct, then it is not possible that Ramako is Arohongui's father. There is only one sensible conclusion, and that, we keep to ourselves, so as not to disrupt the balance of the skies."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Lani Hua",
+        "Text": "Many believe that the Mother of the Moon has been off fighting a war against the Mother of the Sun for thousands of years. While Lani Hua is indeed absent, it is not to fight against her sister. The wounded souls from that war are sent to the silver palace, where Arohongui tends to them until they may rejoin the fight. Those warrior souls cry out in fear and torment as they lay in hospice. They speak not of war with Sione, but of a war with the stars themselves. They have been sworn to silence by both Sione and Lani Hua, but the feverish ones cannot help but rant. Apparently, the two sisters did go out into the night sky to wage war upon one another, but when they got there, they encountered something horrible, something that drives even the strongest warrior to madness and panic. We have not been abandoned by our two strongest gods. They are out there protecting us every single minute of every single day, and they cannot rest for even a moment. That's what the tales say, in any case. I don't know how much of that I actually believe.   "
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Ramako",
+        "Text": "The Ramako Tribe, like us, often uses ice and cold in their warmaking. That is because Ramako has long loved Lani Hua, Arohongui's mother, in secret. He fights not for himself, but for her. His people do the same. I don't understand it at all, but it is what it is."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Traditions",
+        "Text": "They never stop asking. How arrogant! Even if we remain here for ten thousand years, I will never go through the traditions with them. I will participate in the battles because I enjoy fighting, but this is their culture. They seem unaware that I do not intend to fit their expectations. My heart warms for no one. I do not know what love is, only that it motivates others to act like fools and monsters, depending on their inclinations. Perhaps I do have a frozen heart, but that doesn't mean I feel nothing. Their words still hurt me, perhaps even more than their weapons."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Rakiata",
+        "Text": "There are few here who understand. Karui culture can often be excessively focused on having certain traits, such as strength or bravado. Certain duties are expected of each of us, whether or not we want to fulfill them. I died long before Rakiata, so we never met in life, but here in the Halls of the Dead, they're my closest friend. In death, I actually feel understood. For that, I can never begrudge this place."
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "The End of Time",
+        "Text": "There are many fables about the end of the world, but those are just metaphors. My tribe knows how it will really happen. The Moon, in the sky above, follows a roughly oval path around us. Did you know that our world is actually shaped like the Moon? Most believe that Wraeclast is flat, because that is the obvious interpretation of what we see. However, in studying the Moon, my tribe has discovered the truth. Also, we realised that the Moon's path is not exact. Over many, many thousands of years, it is changing slightly... toward us. We have come to understand that the world will end when the Moon comes too close and falls upon us. This is not myth. This is knowledge. What else could possibly happen when two such titanic spheres of stone crash into each other?"
+    },
+    {
+        "NPC": "Ikiaho",
+        "Id": "Knowledge",
+        "Text": "I have always been fascinated by the pursuit of knowledge. There is a pattern underneath everything we see. This pattern preceded even the gods. If something in the world around you works a certain way, it will always work that way. If it does not, something else is happening, and you must investigate. In life, I followed these questions to the heart of the pattern, and it took me to a vast lake... but I do not remember what I found there..."
+    }
+]

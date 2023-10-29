@@ -1,0 +1,482 @@
+[
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataTsunamiRandom",
+        "Text": "Tsunami!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataTsunami2",
+        "Text": "Tsunami!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataTsunami3",
+        "Text": "Tsunami!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataVortexRandom",
+        "Text": "Vortex!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataVortex2",
+        "Text": "Vortex!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataVortex3",
+        "Text": "Vortex!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataSeasprayRandom",
+        "Text": "Seaspray!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataSeaspray2",
+        "Text": "Seaspray!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "AncestralRakiataSeaspray3",
+        "Text": "Seaspray!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataLikesPlayerIsChampion",
+        "Text": "You are in control, makanga. Just keep your guard up."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataNeutralPlayerIsChampion",
+        "Text": "The title of makanga comes and goes. Do not fret."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataDislikesPlayerIsChampion",
+        "Text": "Perhaps the tide is about to turn against you, makanga."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataLikesPlayerLostLast",
+        "Text": "This is your opportunity to seize back your honour, outsider!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataNeutralPlayerLostLast",
+        "Text": "The outsider seems intent on winning this one."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataDislikesPlayerLostLast",
+        "Text": "The outcome for this one seems clear."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataLikesPlayerNoRecord",
+        "Text": "The waves often bring unexpected treasures."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataNeutralPlayerNoRecord",
+        "Text": "I'm curious what skills you bring to our Halls, outsider."
+    },
+    {
+        "NPC": "Rakiata",
+        "Text": "I am unclear what the point of this is.",
+        "Id": "RakiataDislikesPlayerNoRecord"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnAkoya",
+        "Text": "Stuffy traditions make for poor warriors."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnIkiaho",
+        "Text": "Take it all, Ikiaho! You are the strongest of all of us."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnKahuturoa",
+        "Text": "We've got an immovable object. Who shall be his unstoppable force?"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnKaom",
+        "Text": "Eh, Kaom, recognize me? I'm cheering for you to lose your head this time."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnKiloava",
+        "Text": "Calm yourself, you great bag of wind."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnMaata",
+        "Text": "Bring Tawhoa's peace to all of us, Maata."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnTawhanuku",
+        "Text": "The future is yours, Tawhanuku."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnUtula",
+        "Text": "Be the sea that puts out Utula's fire."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsOnAhuana",
+        "Text": "Such warmth and light, shining on the sea."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerWonLast",
+        "Text": "You won last time. Perhaps it is my turn"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerLostLast",
+        "Text": "I expect you're highly motivated to face me after last time."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerMoreSoldiers",
+        "Text": "A mighty host. I'll have to cut them all down."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerLessSoldiers",
+        "Text": "We are vast like the sea."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerMoreItems",
+        "Text": "So many charms and bangles. I hope it works for you."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerLessItems",
+        "Text": "We seem to have more equipment than you."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerMoreFieldItems",
+        "Text": "Rocky shoals, placed in the hopes of breaking us."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataFightBeginsPlayerLessFieldItems",
+        "Text": "A battlefield swept clean by the sea."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry1",
+        "Text": "For Tasalio!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry2",
+        "Text": "For Tasalio!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry3",
+        "Text": "Make war!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry4",
+        "Text": "Make war!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry5",
+        "Text": "Crash like the waves!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataWarcry6",
+        "Text": "Crash like the waves!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTeamTotemDestroyed1",
+        "Text": "The tide turns against us!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTeamTotemDestroyed2",
+        "Text": "One's been downed!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTeamTotemDestroyed3",
+        "Text": "Cover our flank!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTotemDestroyed1",
+        "Text": "All part of the plan. Continue the battle."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTotemDestroyed2",
+        "Text": "A crashing wave cannot be stopped so easily."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataTotemDestroyed3",
+        "Text": "No matter."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTeamTotemDestroyed1",
+        "Text": "Nothing is decided yet."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTeamTotemDestroyed2",
+        "Text": "Continue the plan!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTeamTotemDestroyed3",
+        "Text": "Onwards and over!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTotemDestroyed1",
+        "Text": "We have struck a mighty blow."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTotemDestroyed2",
+        "Text": "They begin to crumble."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataYourTotemDestroyed3",
+        "Text": "The sea erodes even the mightiest fortress!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentDefeatedYou1",
+        "Text": "Until next time."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentDefeatedYou2",
+        "Text": "Victory comes and goes. We'll battle again."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentDefeatedYou3",
+        "Text": "A good fight."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentWhenDefeated",
+        "Text": "So it goes. Well done."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentsFromStandsOnMatch",
+        "Text": "That was rather satisfying to watch!"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentPurchaseItem1",
+        "Text": "You are welcome."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentPurchaseItem2",
+        "Text": "Fair choice."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentPurchaseFieldItem1",
+        "Text": "Make the battlefield your own."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentPurchaseFieldItem2",
+        "Text": "Where we fight is often just as important as how."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentInspectRecruits1",
+        "Text": "These are mine to offer."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentInspectRecruits2",
+        "Text": "Take a look."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentRecruitRecruit1",
+        "Text": "That'll work."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentRecruitRecruit2",
+        "Text": "Fair."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Akoya's Defeat",
+        "Text": "Akoya takes our traditions far too seriously. Maybe her defeat will give her time to relax."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Akoya's Victory",
+        "Text": "Too bad about losing to Akoya. I'm sure she won't rub it in."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Kaom'sDefeat",
+        "Text": "Kaom needed a reminder that he is not the sole bearer of the Karui way."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Kaom's Victory",
+        "Text": "You lost to Kaom? That's mildly disappointing."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Kiloava'sDefeat",
+        "Text": "Kiloava won't be any quieter after his loss to you. In fact, he might get louder."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Kiloava's Victory",
+        "Text": "Kiloava seems to be rather excited he defeated you."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Utula's Defeat",
+        "Text": "If Utula sets this place on fire, it seems I can depend upon you to douse his flames."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Utula's Victory",
+        "Text": "Hmm. Losing to Utula might encourage him. Best not do that again."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Ahuana's Defeat",
+        "Text": "It's always enjoyable to battle against Ahuana, is it not?"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Ahuana's Victory",
+        "Text": "Ahuana's tribe fights with the light of the Karui... and the chill pain of a forbidden love. That's how they defeated you."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Tawhanuku's Defeat",
+        "Text": "Fighting Tawhanuku was enjoyable, was it not? Something about subverting fate is quite satisfying."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Tawhanuku's Victory",
+        "Text": "Lost to Tawhanuku, eh? We've all done it."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Maata's Defeat",
+        "Text": "Maata is a unique challenge among these chieftains. He uses his mind more than most."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Maata's Victory",
+        "Text": "Maata always has a strong plan going in. That's how he wins."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Rakiata's Defeat",
+        "Text": "I'm looking forward to our next bout."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Rakiata's Victory",
+        "Text": "Can't win them all, can you?"
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Match Victory",
+        "Text": "Keep fighting like that, and you'll become a legend yourself."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Match Loss",
+        "Text": "Training is a warrior's best weapon."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentOnPurchaseItemIkiaho",
+        "Text": "Trust anything you get from her."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataCommentOnPurchaseEliteIkiaho",
+        "Text": "Ikiaho's warriors are unmatched."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataConversationWithIkiahoOne",
+        "Text": "I wish I could smell the sea."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataConversationWithKahuOne",
+        "Text": "That was a long time ago, Kahu. Leave it."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "RakiataRandomShout1",
+        "Text": "Today is a good day to be dead."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "First Battle",
+        "Text": "I was thirteen when an Eternal army attacked my tribe. They were in search of an ancient and powerful weapon from our myths, but we only had a single piece of it. Our chieftain was felled in his sleep. My father was as well. So, I took up his weapons, and I went about the work that needed to be done. Once they were dead, knowing that more would come if we had what they wanted, I entrusted Tasalio with our piece of that fabled spear. My tribe tried to put me in charge after that, but I refused the mantle. I just did what I thought was right, and they followed.<br> <br> Although... there was something to the myth of that spear's power. In the few moments I held just a piece of it, my hand was permanently scarred, as if I'd been burned by unseen and unfelt heat."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "The Way",
+        "Text": "Even in my earliest memories, I was training for battle. I do enjoy fighting, but not the way others around me did. To them, it was a savage contest of dominance and manhood. To me, there was an elegance to warfare. It had an ebb and flow, like the tide. It was a kind of dance. When they say I have an unconventional fighting style, it is because they do not realize that I am not fighting. I am dancing. I may feel the bite of an axe at any moment, so why not enjoy each sweep, and each slash? They have their Way. What I have, I call the Flow."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Tasalio",
+        "Text": "Tasalio has never spoken to me directly. I think I hear his influence in the waves, and the wind over the ocean. I found a ring on the shore one day, bearing his graven pattern. It had washed up from the ocean, and I still believe it was a gift from him. It had a great power within it, but I never used it. I didn't need to. There were no problems I could not face with my own strength and cunning."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Ikiaho",
+        "Text": "She's stronger than she knows. She doesn't need me to fight battles on her behalf, nor would she want me to. When I first arrived here, many of the other chieftains were hostile, and the most traditional among them outright rejected me. It was she who vouched for me. The opportunity to fight allowed me to prove myself, as I knew I could, and I have led Tasalio's warriors ever since. In Ikiaho, I could not have asked for a better friend. Sometimes, we even sneak out of here, for a glimpse at the Moon and the sea."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "Sneak Out",
+        "Text": "There is a forgotten passage, a narrow but lengthy crack in the earth that leads to the main well, though the dead just find themselves back here after a few minutes. Still, that few minutes on the ocean, seeing the living world again... glorious. I go up there whenever I lose my tranquility."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "The End of Time",
+        "Text": "You'll have to ask everyone else what they think. True followers of Tasalio do not trouble themselves with thoughts of such a far-flung future. Each day that you can recline on your waikoama, feel the waves beneath you, and take in the sun and the sky... that is a day to treasure. I do not have those anymore, but I console myself with the knowledge that my descendants do. Live for today, outsider.Yesterday... tomorrow... they do not exist. You are only ever here, now."
+    },
+    {
+        "NPC": "Rakiata",
+        "Id": "The Flow",
+        "Text": "There is a flow to the world, to the sea, and to battle. I could lose myself for hours in a war, just running, fighting, and hewing down my enemies. I sense that you know this joy as well. I have nothing to teach you, for you already know what makes you happy."
+    }
+]

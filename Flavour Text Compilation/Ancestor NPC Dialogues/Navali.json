@@ -1,0 +1,1022 @@
+[
+    {
+        "NPC": "Navali",
+        "Id": "NavaliWildFreed",
+        "Text": "Thank you for freeing me. The Mother of Death likes to play these little tricks on me. To remind me of my place. But she also sent you here to help. Let me return the favour, exile. We will meet again in town, and then I will help you illuminate your path."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliWildAttention",
+        "Text": "I've been waiting for you..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliInviteToHideout",
+        "Text": "So you've finally found yourself a dwelling. Perhaps you have room for another lost soul?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliDismissFromHideout",
+        "Text": "I'm sure we will see each other again soon."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliIntroAct1",
+        "Text": "Is it choice that carries you here, or is it fate? I see a need in you. A need to peer into your future. A need to follow the right path. But your future has already been cast. So open your mind and embrace it. Long ago, my people called me a hatungo. A wise woman. Now they call me a revenant. But it is not my fate to return to the Mother of Death just yet. For now I stand with one foot in this world, and the other foot in the realm of the dead. I'm an inquirer of the living and an interpreter of death. I sense you have questions. For a gift of silver, I will answer them. But you seek more than answers. Riches. Power. These I can also provide, in a way... All you have to do is join me. Heed my words, but walk your path. The future is mine to tell, but yours to claim. It is time to fulfil your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliIntroAct2",
+        "Text": "And so your path leads you here, exile. Be careful where you step, for as one foot leads the other, so too does each foot leave its mark. A trace of what was. A guide to what will be."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliIntroAct3",
+        "Text": "Our paths meet in the shell of a long-dead snail. An empire slow to see where its path was taking it. Built on the husk of another, and destined to be buried time and time again. This city will see great things yet, exile. But not in your lifetime."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliIntroAct4",
+        "Text": "Many great things begin at the foot of a mountain, exile. So too do many tragedies. Often a path becomes a fork, and the echoes of your actions push you down one side or the other. Do you know where you are being carried? ...Would you like to?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliIntroAct5",
+        "Text": "The Mother of Death watches over this city with great interest. You have joined us just in time. Before you lies a great many paths, each walked by a different life. But each must come to the same end. Eventually."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy1",
+        "Text": "Go, fulfill your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy2",
+        "Text": "Go, fulfill your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy3",
+        "Text": "Go, fulfill your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy4",
+        "Text": "The path is clear. You must face your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy5",
+        "Text": "The path is clear. You must face your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy6",
+        "Text": "The path is clear. You must face your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy7",
+        "Text": "Fate is revealed. Complete your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcBuysProphecy8",
+        "Text": "Fate is revealed. Complete your prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph1",
+        "Text": "What was prophecy has become history."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph2",
+        "Text": "What was prophecy has become history."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph3",
+        "Text": "The prophecy is fulfilled."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph4",
+        "Text": "The prophecy is fulfilled."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph5",
+        "Text": "The prophecy is fulfilled."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph6",
+        "Text": "The prophecy has come true."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph7",
+        "Text": "The prophecy has come true."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcCompletesProph8",
+        "Text": "The prophecy has come true."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcPostpone1",
+        "Text": "Fate cannot be stopped. But it can be... contained."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcPostpone2",
+        "Text": "Fate cannot be stopped. But it can be... contained."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcPostpone3",
+        "Text": "Fate is like a wild beast. It can be chained, but it can't be tamed."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcPostpone4",
+        "Text": "Fate is like a wild beast. It can be chained, but it can't be tamed.   "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcPostpone5",
+        "Text": "Fate is like a wild beast. It can be chained, but it can't be tamed.   "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcDestroy1",
+        "Text": "The future is undone."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcDestroy2",
+        "Text": "The future is undone."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcDestroy3",
+        "Text": "The future is undone."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnThePaleCourt",
+        "Text": "Dark minds hide in dark places, but it was not always so. The wise Red rulers were long-dead, and the strong seized power. But an unwise leader pulls the people towards ruin. So it came to pass that milk fresh from the nipple was soured, grass grew hard and sharp, and flesh walked the earth without a soul. Hinekora cast her net towards the new kings and queens, but four slipped through the holes and fled into darkness. There they remain. Beyond the reach of the Mother of Death. But not beyond her sight."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnWraeclast",
+        "Text": "I travelled here through death's darkened halls, walking the paths of the Remembered. I am but a memory of the woman I was. A memory treasured and sustained by the Mother of Death."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnYama",
+        "Text": "I awoke in the halls of death with the life I once led little more than a dream half-remembered. Yama the White, my furry companion, stood before me with the Seeing Stone he holds now. Both were given a hair of Hinekora's dark knowledge, but each serves a separate purpose. The Seeing Stone drags me deep into its core, where every instant into eternity is known all at once, like limitless rings on a tree trunk. Yama, like a torch in the mist, guides me back from the stone's infinite visions."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnEber",
+        "Text": "The old red ones left this land barren. Crops grew stunted and disease filled the air. If you don't feed an animal it will soon cast a hungry eye upon its brothers and sisters, and man is no different. The Plaguemaw and his people soon feasted on their own, devouring the very life essence of the young and innocent."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnYriel",
+        "Text": "When the rains stopped, the Lord fed his farms with the blood of the beasts. But blood carries corruption with it, and the crops soon towered, monstrous and thorned. In the thick jungle of his own making, it was not only he who turned feral."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnInya",
+        "Text": "Wisdom and knowledge are not one and the same. The queen's thirst for learning was unending. As she tore through the pages of countless tomes, her knowledge grew and her wisdom slipped away, buckling beneath the weight of insanity."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnVolkuur",
+        "Text": "Sometimes death is a thief, quick on its feet and quicker with a blade. Sometimes it is a vine, slowly growing tighter and tighter around your neck. But death is not a toy. The unbreathing queen has raised an army of soulless corpses. Her actions mock death, turning it into little more than an obstacle for her puppetry of the flesh."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnAncientRivalries",
+        "Text": "Wraeclast teems with the memories of a violent past. Although the flesh and minds of its original inhabitants are long-gone, their emotions - anger, fear, envy - remain in the artefacts they have left behind.  Doedre Darktongue, Marceus Lioneye, Shavronne of Umbra, Maligaro, Victario. If these names mean nothing to you now, they will soon. Keep an eye out for their long-lost possessions. Each holds the memory of failure, sadness and a desire for revenge."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnThaumaturgy",
+        "Text": "The great thaumaturgists of the past considered themselves artists of the highest calibre. Their paints were the hidden energies that flow around and through us. Their canvas: the finely-woven fabric of reality itself. And like every great artist, there were times when their brush strokes wavered, when errors were made. Unfortunately, their errors have persisted far longer than their great creations."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnCult",
+        "Text": "I have not heard of such a cult, nor have I seen visions of them, but if you say you witnessed their presence in Wraeclast, then I believe you. Be careful. If they can avoid the gaze of the Seeing Stone then they may be beyond the grasp of even the Mother of Death. And that is truly something to fear."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnWarbands",
+        "Text": "Rats on a sinking ship fight to the death for a splinter of dry wood, not knowing that it too will soon be at the bottom of the sea. We are not the only rats on this ship."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnRivalry",
+        "Text": "I sense great anger across the land, directed at you. There is another, exiled like you, who wants you dead. For this individual, anger and desperation blur the lines of mortality."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnTools",
+        "Text": "The tools of divination found on the body of an exile. I have seen it. There are more tools, and the exiles who hold them are gathering in number."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnKaruiGods",
+        "Text": "Hinekora, my Mother of Death, is not the only god, exile. The Karui are watched over by many. Ngamahu lends us fire, which illuminates the path. Tawhoa gives us the trees and birds that line the path, so that we may enjoy beauty and peace. Tukohama provides us with weapons and knowledge of war, which lets us walk the path safely.  And in the final days of this world, Kitava, whose hunger knows no bounds, will take it all away."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcNoRoom",
+        "Text": "Too many prophecies remain unfulfilled. Do not risk fracturing your fate."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcError",
+        "Text": "No amount of silver will help if the wrong questions are asked."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcLacksSilver1",
+        "Text": "Wisdom of one's fate has a price, and you do not have the silver to pay it.   "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcLacksSilver2",
+        "Text": "Guidance is priced in silver. If the price is not paid, the stone will stay silent."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcLacksSilver3",
+        "Text": "Return when you can pay the silver fee. Only then will your fate be known."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnCrafting",
+        "Text": "The onyx amulet you have begun to reshape is special, and it's metamorphosis is not yet complete. Keep it somewhere safe, for there is more yet to do."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnVaalBoxes",
+        "Text": "The fragment you have recovered leads to a very dangerous realm. The Red Queen waits in her dark stronghold, and a thousand years of anger bubble just beneath the surface of her flawless, ill-gotten beauty."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPcErrorAlt",
+        "Text": "The stone is silent. Please come back later."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecyCost",
+        "Text": "The more deeply woven into fate, the more difficult it is to undo what I have seen. And, the more costly."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy1",
+        "Text": "Pagan mouths worship pagan gods False idols for false promises"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy2",
+        "Text": "A circle of silent giants imprisons a memory of undying misery. A dark tongue whispers dark words carried by the western winds."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy3",
+        "Text": "Roots grow from a sky of stone and soldiers of a forgotten time march once again."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy4",
+        "Text": "Four of shared flesh and blood raise an army of borrowed blood and bone."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy5",
+        "Text": "The echo of the aesthete haunts her greatest creation bestowing great powers once more."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy6",
+        "Text": "At the site of a great atrocity,  the shadows of the distant past hang over the risen red army."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy7",
+        "Text": "Beyond the golden gears, the edges of reality crack,  and something hidden from sight spills through."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy8",
+        "Text": "Carried by the southern winds, a master of metal seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy9",
+        "Text": "Smelling of beast and blood, A master hunter seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy10",
+        "Text": "Guarding a sculpture of flesh and bone and magic, a master of necromancy seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy11",
+        "Text": "Forged in battle, stewing in arrogance, a master of weapons seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy12",
+        "Text": "Turning life to death, turning death to art, a master of the darkness seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy13",
+        "Text": "Forsaken by the light he has sworn to protect, a master of prayer seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliProphecy14",
+        "Text": "Lost in the miasma of dream, a master of many realms seeks aid."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliOnAmbitiousBandit",
+        "Text": "Thieves make do with what they can find or take by force. When thieves outnumber their victims, they must look farther and farther for what they can take. It is their own greed that carries them into danger."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy1",
+        "Text": "Trouble brews hidden from light, And spills onto the soil."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy2",
+        "Text": "Malevolence swells and spreads in minds That can only be cleansed with the spilling of blood."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy3",
+        "Text": "Treasures hide in foul flesh the flesh is weak, but the gift is strong"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy4",
+        "Text": "A great threat lies in wait in a long forgotten landmark"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy5",
+        "Text": "He whose name is written out of history longs to leave his mark"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliGenericProphecy6",
+        "Text": "A mind mired in dark thoughts feeds on darker acts"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomCallForward1",
+        "Text": "Come closer, mortal."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomCallForward2",
+        "Text": "Come closer, mortal."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Well of Passing",
+        "Text": "Have no fear. The Water of Sight does not slay the living, just nearly so. You may resume your mortal life, such as it is, once you return your spirit to your body."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Introduction",
+        "Text": "Your coming was foretold, but you are decades early. How odd. I am Navali, once a hatungo for my people, now a revenant in service of the Mother of Death. Here you shall be tested by the greatest warriors that ever lived. You will be weighed and measured on the scales of Fate, and we shall determine your true worth."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The Halls of the Dead",
+        "Text": "Here in the Halls of the Dead, we wile away our days by holding grand competitions of skill and daring. You may participate in these Trials, but be warned, the warriors of the Karui never hold back."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerBeginsAnnouncement",
+        "Text": "Noble Ancestors! A new challenger has arrived!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesWitch",
+        "Text": "A Witch, banished from her coven for her ambitions, seeks to prove herself. "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesTemplar",
+        "Text": "A Templar, full of righteous anger, seeks a worthy opponent."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesMarauder",
+        "Text": "A Marauder, one of our proud sons returned, has come to prove himself."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesDuelist",
+        "Text": "A Duelist, lonely and hollow, seeks to put on a show for us."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesRanger",
+        "Text": "A Ranger, swift and solitary, has come from the living realm to hone her skills here."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesShadow",
+        "Text": "A Shadow, master of the unseen arts, seeks to learn from us."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesScion",
+        "Text": "A Scion has come to us, to realize her potential."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerReinforcesWorthy",
+        "Text": "Do you doubt the foresight of the Mother of Death? Hinekora wills it, so it must be done. If you are so sure of your own superiority, then make the challenge yourself!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesAkoyaFirstTime",
+        "Text": "Step forward, then, Akoya of the Tukohama Tribe! Show this newcomer the might of the Karui! "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerFirstBattleIntroEver",
+        "Text": "The outsider steps forth! Let us see what skills a foreign warrior brings to the battlefield!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerNew1",
+        "Text": "The newcomer girds for battle. Will this be their victory to claim?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerNew2",
+        "Text": "Fate conspires to set the stage for a legendary battle. Will the newcomer be up to the task?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampion1",
+        "Text": "Our mortal challenger will seek to retain the title of Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampion2",
+        "Text": "Defending their title, the Champion, once more into the fray!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionTwoTimes",
+        "Text": "Defending, we have our twice Champion. Will there be a third victory?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionThreeTimes",
+        "Text": "Our Champion of three trials seeks a fourth."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionFourTimes",
+        "Text": "Our four-time Champion has much to defend in this Trial."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionFiveTimes",
+        "Text": "After five Trials and five victories, our Champion fights for a sixth!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionSixTimes",
+        "Text": "Six Trials. Six victories. Can the Champion maintain this streak?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionSevenTimes",
+        "Text": "The Champion of seven Trials will defend their title."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerChampionEightOrMoreTimes",
+        "Text": "With so many victories in a row, can anyone stop this Champion?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesFinalMatchPlayerIsChampion",
+        "Text": "In this final match of the Trial, the Champion seeks another victory!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesFinalMatchPlayerIsNotChampion",
+        "Text": "In this final match of the Trial, the newcomer seeks to become Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerLostLastTournament",
+        "Text": "Can our mortal challenger make a comeback?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerMoreFieldItems",
+        "Text": "A master of strategy enters the battlefield!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerMoreWarriors1",
+        "Text": "As challenger, we have a master of talent, leader of warriors!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerMoreEquipment",
+        "Text": "Our challenger appears well-equipped. Will it be enough?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerLostLastMatch",
+        "Text": "Our mortal challenger faces total defeat if they lose again. Can they recover? Only Hinekora knows!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerMoreWarriors2",
+        "Text": "Hoping to overwhelm the opposition with sheer numbers, our mortal challenger brings more warriors to the field!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerMoreWarriors3",
+        "Text": "Seeking victory, the outsider has brought many great warriors!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerLessWarriors1",
+        "Text": "Our mortal challenger enters the field with less warriors than the opposition. Can they still win?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerLessWarriors2",
+        "Text": "The newcomer brings a smaller warband to the field. An interesting strategy. "
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerIsDisliked1",
+        "Text": "The outsider prepares to face off against their hated rival! This will surely be heated."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerIsDisliked2",
+        "Text": "Our mortal challenger faces the ire of a hated rival. This match may get bloody."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncerAnnouncesPlayerIsLiked1",
+        "Text": "The outsider prepares to face off against a friendly tribe! An easygoing match, perhaps?"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece1",
+        "Text": "Seeking to dethrone the Champion shall be..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece2",
+        "Text": "Challenging them shall be..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece3",
+        "Text": "Facing off against the outsider is..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece4",
+        "Text": "Continuing the challenge is..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece5",
+        "Text": "The other challenger for the final battle of this tournament will be..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementPrefixPiece6",
+        "Text": "Opposite we have..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKaom1",
+        "Text": "The Slayer of Lioneye, the Chieftain of Chieftains, the Mighty Volcano, the second Herald of War, the legendary Kaom!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixRakiata1",
+        "Text": "Unstoppable like the very sea itself, Rakiata of the Tasalio Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixIkiaho1",
+        "Text": "Deadly by moonlight, swift like the owl's strike, Ikiaho of the Arohongui Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKiloava1",
+        "Text": "The oncoming storm, the first Herald of War, Kiloava of the Valako Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixTawhanuku1",
+        "Text": "The Champion of Death, the Bringer of Silence, Tawhanuku of the Hinekora Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixMaata1",
+        "Text": "Mighty like an ancient tree, strong as the oak, Maata of the Tawhoa Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixUtula1",
+        "Text": "Slayer of Templars, Ravager of Oriath, Utula of the Kitava Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixAhuana1",
+        "Text": "Fiery like the sun, and just as deadly, Ahuana of the Ramako Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixAkoya1",
+        "Text": "The Chainbreaker, the Rage-Mother, Akoya of the Tukohama Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKahuturoa1",
+        "Text": "The Crusher, the Night Mauler, Kahuturoa of the Rongokurai Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKaom2",
+        "Text": "Kaom of the Ngamahu Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixRakiata2",
+        "Text": "Rakiata of the Tasalio Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixIkiaho2",
+        "Text": "Ikiaho of the Arohongui Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKiloava2",
+        "Text": "Kiloava of the Valako Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixTawhanuku2",
+        "Text": "Tawhanuku of the Hinekora Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixMaata2",
+        "Text": "Maata of the Tawhoa Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixUtula2",
+        "Text": "Utula of the Kitava Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixAhuana2",
+        "Text": "Ahuana of the Ramako Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixAkoya2",
+        "Text": "Akoya of the Tukohama Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncementSuffixKahuturoa2",
+        "Text": "Kahuturoa of the Rongokurai Tribe!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliSaysGo1",
+        "Text": "Begin!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliSaysGo2",
+        "Text": "Fight!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliSaysGo3",
+        "Text": "Attack!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliSaysGo4",
+        "Text": "Go!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerDefeatInMatch1",
+        "Text": "There is no shame in defeat... at least, not yet."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerDefeatInMatch2",
+        "Text": "Defeat is inevitable, as is the rematch."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerDefeatInMatch3",
+        "Text": "The Trial is not over. Not yet."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerDefeatInMatch4",
+        "Text": "You will have another chance in this Trial."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryMatch1",
+        "Text": "The outsider claims another victory!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryMatch2",
+        "Text": "Our mortal challenger wins!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryMatch3",
+        "Text": "The reigning Champion emerges triumphant once more!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryMatch4",
+        "Text": "The Trial continues, and the outsider moves forward!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournament1",
+        "Text": "The tournament is over. The outsider... has won."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournament2",
+        "Text": "The tournament is over. The outsider has done well."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournament3",
+        "Text": "The tournament is over."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournament4",
+        "Text": "We have our new Champion... the outsider!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentWitch",
+        "Text": "The Witch is our new Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentTemplar",
+        "Text": "The Templar... is our new Champion."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentMarauder",
+        "Text": "Our proud son, the Marauder, is our new Champion."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentDuelist",
+        "Text": "The Duelist is our new Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentRanger",
+        "Text": "The Ranger has bested our warriors, and is now our new Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentShadow",
+        "Text": "The Shadow has proven his skills, and become our Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerVictoryTournamentScion",
+        "Text": "The Scion is our new Champion!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerRepeatTournamentVictoryMale1",
+        "Text": "Our Champion has defended his title."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerRepeatTournamentVictoryFemale1",
+        "Text": "Our Champion has defended her title."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerRepeatTournamentVictoryMale2",
+        "Text": "The reigning Champion has defended his title."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerRepeatTournamentVictoryFemale2",
+        "Text": "The reigning Champion has defended her title."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerTournamentLoss1",
+        "Text": "A painful defeat. Time to rest and recover for the next tournament."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerTournamentLoss2",
+        "Text": "The war is over for the outsider."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesPlayerTournamentLoss3",
+        "Text": "The outsider has been eliminated from the tournament."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesStepForwardForReward1",
+        "Text": "You are worthy. Approach Hinekora and receive her blessing."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesStepForwardForReward2",
+        "Text": "You are worthy. Approach Hinekora and receive her blessing."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesStepForwardForRewardHinekoraAsleep1",
+        "Text": "You are worthy. Approach."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesStepForwardForRewardHinekoraAsleep2",
+        "Text": "Choose your reward. Though Hinekora sleeps, she foresaw this, and prepared rewards for you long ago."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliAnnouncesStepForwardForRewardHinekoraAwake1",
+        "Text": "Hinekora smiles upon you. Choose your reward."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Silver Coins",
+        "Text": "By the grace of a silver coin, you will know when the time is right to return."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoin2",
+        "Text": "Return with a silver coin, and we shall continue our clashes."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoin3",
+        "Text": "Should you wish to continue, you will need to return with silver coins."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoinPlayerLost1",
+        "Text": "Though you did not win, you carried yourself well. If you wish to fight in another Trial, return with a silver coin."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoinPlayerWon1",
+        "Text": "You have earned your place here, Champion. If you wish to fight in another Trial, return with a silver coin."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoinPlayerWon2",
+        "Text": "The tribes are itching for a rematch. Return soon with a silver coin."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliBackroomSilverCoinPlayerLost2",
+        "Text": "Return with a silver coin, and we shall start another Trial."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Kaom",
+        "Text": "When you slew Kaom and freed him from his unending nightmare, you sent his purified soul to join us here in the Halls of the Dead. Some challenged his place here because he slaughtered his own men in life, but such is the right of a Chieftain. His might, and his victories, speak for themselves. Thus, he has earned a place here in competition with the greatest of our warriors."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Utula",
+        "Text": "When you slew Utula's body, you separated his spirit from his altered flesh. This freed him to join us as a purified soul in these Halls of the Dead. We are very grateful to you for this, as he is a true hero in our eyes. He brought Karui vengeance against the Templars, and helmed a rebellion that freed our people held in bondage in Oriath. He has earned a place here in competition with the greatest of our warriors."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The Awakening of the Gods",
+        "Text": "When you slew the Beast, you ended the Slumber of the Gods. Hinekora is finally awake, and the Halls of the Dead clamour with the joyous songs of our people. You cannot possibly understand the import of this change. The greater sum of our people, countless generations of Karui warriors, have never known their goddess. I myself have only ever spoken to her in her dreams. To hear her voice is to know that every sacrifice I made for my people was justified. This is the gift that you have given us... that you have given me."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Tukohama's Defeat",
+        "Text": "How is it that a mortal defeated our Father of War in his domain? No, it was not solely you. Your alliance with the Thief of Virtue is a ghastly one. However, your prowess in combat cannot be denied. You have earned our respect, not our ire, for this victory. Such is our Way."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Kitava",
+        "Text": "We do not despise Kitava. He is a blind child, cursed with endless hunger, and he knows no better. Hinekora foresaw his fall, and we have already mourned his passing."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Kitava",
+        "Text": "We did not despise Kitava. He was a blind child, cursed with endless hunger, and he knew no better. Hinekora foresaw his fall, and we mourned his passing long ago. Hinekora made no move to prevent these events, for they had to happen so that the future could be guided down a certain path. As she spoke while in a painful trance, for Wraeclast to survive, Kitava's grin must be bared to the bone..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Hinekora",
+        "Text": "The Mother of Death has slept for thousands of years, but her domain remains. It is all that stands between us and oblivion. Before she embraced us, those that died simply ceased to be. Now, the souls of the Karui people continue on, lending their wisdom and strength to those that follow."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Hinekora",
+        "Text": "The Mother of Death is all that stands between us and oblivion. Before she embraced us, those that died simply ceased to be. Now, the souls of the Karui people continue on, lending their wisdom and strength to those that follow. When you slew the Beast and allowed her to awaken, you did the Karui people a great service. We will weave you into the sung tales of our heroes."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The Future-Past",
+        "Text": "Hinekora does not see the future. That is the domain of Chaos. The Mother of Death is gifted with the ability to see into the past, not very clearly, but far deeper into the murk than mortals can comprehend. Before Wraeclast, before the Lake, before the primordial molten world, before the stars themselves, Time circled upon itself into infinity. She sees not what you will do, only what you did, and what you shall do again... probably."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The Slumber of the Gods",
+        "Text": "Thousands of years ago, Hinekora foresaw the coming time of emptiness, the Slumber of the Gods, and built her domain to function while she lay dreaming. Had she not done this, any Karui who died during that emptiness would have been lost forever. Her foresight guarded our people for generations."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Hatungo",
+        "Text": "Long ago, my people called me a hatungo, yes. Now I am an interpreter of death, and a faithful servant of prophecy."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The Trials",
+        "Text": "The souls of our people were on the verge of madness from isolation and ennui until the Trials were devised. Before the Slumber of the Gods, Hinekora devised this mock warfare to engage us, and she succeeded. The Halls of the Dead have never been so full of life... so to speak. We know the games will eventually lose their amusement, but eternity is not forever. We need only entertain ourselves until Time ends."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "The End of Time",
+        "Text": "One day, Time will end. Then, Time will begin again. All the pains of a long and weary existence will fall away from us, and we shall see the world with innocent eyes once more. You do not remember our previous meetings... but I do, by the grace of Hinekora's sight. She bears the burden of knowledge so that you may live unencumbered by the inevitable despairs of age and wisdom."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Chaos",
+        "Text": "Fear that which remains awake when even the gods slumber. Chaos sees what Hinekora cannot, the myriad span of all that has yet to happen. Chaos takes selfish amusement in unlikelihoods and surprising events. Hinekora serves Order, ensuring that what must happen, happens. Two Impulses, as unlike each other as any twins could ever be, locked in eternal conflict by their very nature..."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Order",
+        "Text": "The Mother of Death has pledged herself to a higher Impulse. She seeks to perpetuate Order, by ensuring her foreseen prophecies come to pass. There are only twelve futures in which Wraeclast survives the coming darkness. All twelve involve the arrival of someone like yourself to this place. She foretold it, and you have found your way to us. That is a good sign that we are on one of the right paths... for now."
+    },
+    {
+        "NPC": "Navali",
+        "Id": "Hyrri's Soul",
+        "Text": "You have seen Queen Hyrri? You did battle with her? Then her soul lives on! When she did not arrive in the Halls of the Dead at the end of her life, we thought she might have chosen to wander. When we realised she was beyond even Hinekora's sight, we feared the worst. Now, we know where she is. This... Domain of Timeless Conflict... we Karui will find a way to invade it and rescue her. Then, we will lay waste to the entity that controls it, for daring to disrespect our people so grievously!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliPrepareYourselves",
+        "Text": "Prepare yourselves!"
+    },
+    {
+        "NPC": "Navali",
+        "Id": "NavaliReadyYourWeapons",
+        "Text": "Ready your weapons!"
+    }
+]

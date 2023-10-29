@@ -1,0 +1,2212 @@
+{
+    "cargoquery": [
+        {
+            "title": {
+                "name": "Academy",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,delve_chest,einharmaps,library_area,undying_boss_area,undyingcultist_map",
+                "flavour text": "They came for enlightenment,\nbut were imprisoned by madness."
+            }
+        },
+        {
+            "title": {
+                "name": "Acid Caverns",
+                "area type tags": "sewers,swamp,mountain,cave",
+                "tags": "map,indoors_area,einharmaps,vile_areas,toxic_pool_area",
+                "flavour text": "Clear water springs forth.\nA moment of purity before it too gathers filth."
+            }
+        },
+        {
+            "title": {
+                "name": "Acton's Nightmare",
+                "area type tags": "temple",
+                "tags": "indoors_area,unique_map,map,limited_tempests,area_with_water,necromancer_area",
+                "flavour text": "Curious, she shook it then,\nAnd tiny screams emerged.\nCuriouser, she shook again,\nAnd an eerie silence purred."
+            }
+        },
+        {
+            "title": {
+                "name": "Alleyways",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,einharmaps,marketplace_area,kitava_cultist_area,bridge_area,city_home_map",
+                "flavour text": "An unwashed gutter, where wretches\ncut purses and throats alike."
+            }
+        },
+        {
+            "title": {
+                "name": "Arachnid Nest",
+                "area type tags": "cave,forest",
+                "tags": "indoors_area,map,einharmaps,spider_boss_area",
+                "flavour text": "Man is not the only beast to\nbend nature to its will."
+            }
+        },
+        {
+            "title": {
+                "name": "Arachnid Tomb",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,area_with_water,einharmaps,arachnid_tomb_map_area,spider_boss_area,bridge_area",
+                "flavour text": "They feel your every move,\nyour every breath,\nwith a million little wires."
+            }
+        },
+        {
+            "title": {
+                "name": "Arcade",
+                "area type tags": "urban",
+                "tags": "map,einharmaps,marketplace_area,ruined_area,city_home_map",
+                "flavour text": "We create so that some part\nof us may remain after death."
+            }
+        },
+        {
+            "title": {
+                "name": "Arena",
+                "area type tags": "urban",
+                "tags": "map,indoors_area,einharmaps,daresso_area,arena_area,triple_boss_map,pitfight_area",
+                "flavour text": "The sound of a thousand calls\nfor blood echo for eternity."
+            }
+        },
+        {
+            "title": {
+                "name": "Atoll",
+                "area type tags": "mountain",
+                "tags": "map,area_with_water,einharmaps,map_area_with_open_water,ocean_area,windy_area,totem_boss_area,sun_nature_area",
+                "flavour text": "Time turns even the vicious\nvolcanoes to hollow shells."
+            }
+        },
+        {
+            "title": {
+                "name": "Barrows",
+                "area type tags": "forest",
+                "tags": "map,area_with_water,no_echo,einharmaps,has_foxes_area,den_area,cemetery_map_area,bear_boss_map",
+                "flavour text": "Man burrows for only\nthe eternal hibernation."
+            }
+        },
+        {
+            "title": {
+                "name": "Basilica",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,cannot_be_twinned,delve_chest,einharmaps,wealthy_area,church",
+                "flavour text": "Built so the prayers would echo.\nA resonance no god could hear."
+            }
+        },
+        {
+            "title": {
+                "name": "Bazaar",
+                "area type tags": "urban",
+                "tags": "map,einharmaps,marketplace_area,undying_boss_area,ruined_area,city_home_map",
+                "flavour text": "Greed is the only god here."
+            }
+        },
+        {
+            "title": {
+                "name": "Beach",
+                "area type tags": "beach",
+                "tags": "map,einharmaps,ocean_area,peaceful_map,sun_nature_area",
+                "flavour text": "A paradise, forever replenished by\nendless waves teeming with life."
+            }
+        },
+        {
+            "title": {
+                "name": "Bog",
+                "area type tags": "swamp",
+                "tags": "map,area_with_water,einharmaps,fetid_area,toxic_pool_area",
+                "flavour text": "Layer upon layer of death and rot.\nDisgusting."
+            }
+        },
+        {
+            "title": {
+                "name": "Bone Crypt",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,einharmaps,catacomb_area,crypt_area,summoner_area,necromancer_area",
+                "flavour text": "The dead ask to be remembered,\nbut such requests\nare seldom met."
+            }
+        },
+        {
+            "title": {
+                "name": "Caer Blaidd, Wolfpack's Den",
+                "area type tags": "cave",
+                "tags": "indoors_area,map,unique_map,cave_area,den_area",
+                "flavour text": "Howls and laughter\nThey hide in the day\nThey smell you, they watch you\nThey track their new prey"
+            }
+        },
+        {
+            "title": {
+                "name": "Cage",
+                "area type tags": "urban,dungeon",
+                "tags": "indoors_area,map,einharmaps,prison_area,summoner_area",
+                "flavour text": "Treat a man like a wild animal,\nand he will soon learn to bite."
+            }
+        },
+        {
+            "title": {
+                "name": "Caldera",
+                "area type tags": "cave,mountain",
+                "tags": "map,no_echo,area_with_water,einharmaps,kaom_area,king_boss_area,karui_map,sun_nature_area",
+                "flavour text": "From the heart of fire, rivers\nof burning rage billow forth."
+            }
+        },
+        {
+            "title": {
+                "name": "Carcass",
+                "area type tags": "sewers",
+                "tags": "indoors_area,map,einharmaps,belly_area,harvest_area,vile_areas",
+                "flavour text": "Life's wet, reproductive stink abates,\nrelenting to death's chaste ritual of decay."
+            }
+        },
+        {
+            "title": {
+                "name": "Castle Ruins",
+                "area type tags": "forest",
+                "tags": "map,area_with_water,einharmaps,has_road_area,crossroad_area,has_foxes_area,bandit_area,kraityn_area,ruined_area,bridge_area",
+                "flavour text": "When the castle falls,\nit has failed its only purpose."
+            }
+        },
+        {
+            "title": {
+                "name": "Cells",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,map,einharmaps,shavronne_area,unholy_trio_area,prison_area,trio_soul_area",
+                "flavour text": "Life crushed together.\nLeft to crumble to dust."
+            }
+        },
+        {
+            "title": {
+                "name": "Cemetery",
+                "area type tags": "temple,swamp",
+                "tags": "map,cannot_be_twinned,einharmaps,graveyard_area,rain_area,cemetery_map_area,god_boss_map_area,bear_boss_map",
+                "flavour text": "A stone forest of forgotten names."
+            }
+        },
+        {
+            "title": {
+                "name": "Channel",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,delve_chest,einharmaps,aqueduct_area,scavenger_boss_area,peaceful_map",
+                "flavour text": "The stone cannot stop the torrent.\nIt can only divert it."
+            }
+        },
+        {
+            "title": {
+                "name": "Chateau",
+                "area type tags": "urban,dungeon,temple",
+                "tags": "map,area_with_water,indoors_area,einharmaps,wealthy_area,scavenger_boss_area,labyrinth_tileset_area,city_home_map",
+                "flavour text": "Beauty and brutality in such close proximity."
+            }
+        },
+        {
+            "title": {
+                "name": "City Square",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,einharmaps,triple_boss_map,kitava_cultist_area,city_home_map",
+                "flavour text": "Countless generations have\nwalked these time-worn stones."
+            }
+        },
+        {
+            "title": {
+                "name": "Cold River",
+                "area type tags": "forest",
+                "tags": "map,area_with_water,einharmaps,snow_area,solaris_area,lunaris_area,god_boss_map_area",
+                "flavour text": "Ice forges a fickle path,\nas those beneath its veil can attest."
+            }
+        },
+        {
+            "title": {
+                "name": "Colonnade",
+                "area type tags": "urban",
+                "tags": "map,einharmaps,lunaris_outer_area,urban_sarn_area,rain_area,military_area",
+                "flavour text": "Small minds demand\nthe largest structures."
+            }
+        },
+        {
+            "title": {
+                "name": "Colosseum",
+                "area type tags": "urban",
+                "tags": "map,no_echo,einharmaps,daresso_area,arena_area,pitfight_area,king_boss_area",
+                "flavour text": "Life means as little as a passing\nmoment of entertainment.\nLet them rot."
+            }
+        },
+        {
+            "title": {
+                "name": "Courthouse",
+                "area type tags": "urban,dungeon",
+                "tags": "indoors_area,map,einharmaps,triple_boss_map,rogue_exile_boss_area",
+                "flavour text": "Justice born of love is a surrender.\nJustice born of law is a punishment."
+            }
+        },
+        {
+            "title": {
+                "name": "Courtyard",
+                "area type tags": "forest,swamp,urban",
+                "tags": "map,einharmaps,garden_area,lightning_area,triple_boss_map,rain_area",
+                "flavour text": "An elaborate, beautiful garden,\nhidden from the public. Selfish."
+            }
+        },
+        {
+            "title": {
+                "name": "Coves",
+                "area type tags": "beach,swamp",
+                "tags": "map,area_with_water,einharmaps,reef_area,ship_graveyard_area,map_area_with_open_water,ocean_area,golem_boss_area,karui_map",
+                "flavour text": "The dark seas swallow the careless\nand spit them against sharp rocks."
+            }
+        },
+        {
+            "title": {
+                "name": "Crimson Temple",
+                "area type tags": "temple",
+                "tags": "indoors_area,map,delve_chest,einharmaps,wealthy_area,church,kitava_cultist_area,blood_mage_boss_map",
+                "flavour text": "A sanguine supplication to death and depravity."
+            }
+        },
+        {
+            "title": {
+                "name": "Cursed Crypt",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,einharmaps,crypt_area",
+                "flavour text": "Saints and heathens look the same\nonce the rot takes hold."
+            }
+        },
+        {
+            "title": {
+                "name": "Daresso's Dream",
+                "area type tags": "barracks",
+                "tags": "einharbull,daresso_area,pitfight_area,otherworldly_story_area,archer_boss_area",
+                "flavour text": "No matter how far you climb, you never escape the Pits."
+            }
+        },
+        {
+            "title": {
+                "name": "Dark Forest",
+                "area type tags": "forest",
+                "tags": "map,no_echo,einharmaps,has_road_area,forest_map_area,dark_forest_area,rigwald_area,king_boss_area",
+                "flavour text": "The trees grow twisted and gnarled,\nwithout a hint of light.\nA curse lingers here."
+            }
+        },
+        {
+            "title": {
+                "name": "Death and Taxes",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,unique_map,map,limited_tempests,no_monster_packs,no_strongboxes,no_leaguestone",
+                "flavour text": "So the raiders danced,\nleading their foe ever west,\ntowards certain death."
+            }
+        },
+        {
+            "title": {
+                "name": "Doedre's Cesspool",
+                "area type tags": "sewers",
+                "tags": "indoors_area,area_with_water,act_boss_area,einharcavespiders,sewer_area,vile_areas,doedre_area,unholy_trio_area",
+                "flavour text": "Spells of blood foul the waters below."
+            }
+        },
+        {
+            "title": {
+                "name": "Doryani's Machinarium",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,unique_map,vaal_pyramid_area",
+                "flavour text": "We are ever the makers of our own undoing."
+            }
+        },
+        {
+            "title": {
+                "name": "Dunes",
+                "area type tags": "beach",
+                "tags": "map,area_with_water,einharmaps,desert_area,desert_map_area,sun_nature_area",
+                "flavour text": "Shifting, morphing, expanding. A reminder\nof the virtues of an agile mind."
+            }
+        },
+        {
+            "title": {
+                "name": "Dungeon",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,map,einharmaps,prison_area",
+                "flavour text": "A penitentiary for those who are not penitent\nis nothing more than an inn for the evil."
+            }
+        },
+        {
+            "title": {
+                "name": "Estuary",
+                "area type tags": "beach",
+                "tags": "area_with_water,map,no_echo,einharmaps,fire_area,map_area_with_open_water,ocean_area,karui_map,sun_nature_area",
+                "flavour text": "Where land springs from water,\nlife will shortly follow."
+            }
+        },
+        {
+            "title": {
+                "name": "Excavation",
+                "area type tags": "cave,mountain",
+                "tags": "indoors_area,map,einharmaps,mine_area,cave_area",
+                "flavour text": "Two unexplored frontiers remain:\nThe skies and the soil."
+            }
+        },
+        {
+            "title": {
+                "name": "Factory",
+                "area type tags": "urban",
+                "tags": "indoors_area,map,einharmaps,warehouse_area,Forge_Area",
+                "flavour text": "Repetition. Convention. Duplication.\nCreation distilled to perfection."
+            }
+        },
+        {
+            "title": {
+                "name": "Flooded Mine",
+                "area type tags": "cave",
+                "tags": "indoors_area,map,einharmaps,mine_area,cave_area,flooded_area,golem_boss_area",
+                "flavour text": "In darkness, beast and man\nalike clamour to survive."
+            }
+        },
+        {
+            "title": {
+                "name": "Forge of the Phoenix",
+                "area type tags": "dungeon,temple",
+                "tags": "map,no_echo,cannot_be_twinned,indoors_area,einharmaps,fire_area,fire_prison_area,Forge_Area",
+                "flavour text": "One of my captors refused redemption.\nHe did not see value in a new life.\nNow new life surrounds him."
+            }
+        },
+        {
+            "title": {
+                "name": "Forking River",
+                "area type tags": "urban,swamp",
+                "tags": "map,area_with_water,einharmaps,map_area_with_open_water,river_area,bridge_area",
+                "flavour text": "Great stone towers tore at the natural order\nand were promptly put in their place."
+            }
+        },
+        {
+            "title": {
+                "name": "Frozen Cabins",
+                "area type tags": "cave",
+                "tags": "map,no_echo,einharmaps,snow_area,aqueduct_area",
+                "flavour text": "The fleet lay stranded in the winter wastes,\nthose aboard to never again see the light of day."
+            }
+        },
+        {
+            "title": {
+                "name": "Fungal Hollow",
+                "area type tags": "forest",
+                "tags": "map,einharmaps,indoors_area,cave_area,bandit_area,peaceful_map",
+                "flavour text": "The water brings life,\nthe poison takes it away."
+            }
+        },
+        {
+            "title": {
+                "name": "Geode",
+                "area type tags": "cave,mountain",
+                "tags": "map,einharmaps,mine_area,chaos_golem_boss_area,golem_boss_area",
+                "flavour text": "Many hands may\nmove a mountain."
+            }
+        },
+        {
+            "title": {
+                "name": "Glacier",
+                "area type tags": "mountain,cave",
+                "tags": "map,no_echo,einharmaps,snow_area,goatman_boss_area,snow_mountain_area",
+                "flavour text": "We must all walk the narrow, winding path.\nThe end is always the same."
+            }
+        },
+        {
+            "title": {
+                "name": "Grave Trough",
+                "area type tags": "temple,swamp",
+                "tags": "map,area_with_water,graveyard_area,einharmaps,cemetery_map_area",
+                "flavour text": "Does the land reject the dead,\nor do the dead reject their fate?"
+            }
+        },
+        {
+            "title": {
+                "name": "Graveyard",
+                "area type tags": "swamp,temple",
+                "tags": "map,area_with_water,einharmaps,graveyard_area,rain_area,triple_boss_map,cannot_be_twinned,cemetery_map_area,archer_boss_area",
+                "flavour text": "Unknown legacies.\nUntold stories."
+            }
+        },
+        {
+            "title": {
+                "name": "Hallowed Ground",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,no_monster_packs,no_strongboxes,unique_map,no_leaguestone",
+                "flavour text": "Some dead have long\nenvied the living.\nWhen given the chance,\nthey take from us what they can.\nSo we offer our suffrage.\nIn return, they give\nonly suffering."
+            }
+        },
+        {
+            "title": {
+                "name": "Haunted Mansion",
+                "area type tags": "urban",
+                "tags": "indoors_area,map,einharmaps,wealthy_area,kitava_cultist_area,blood_mage_boss_map,city_home_map",
+                "flavour text": "Forlorn and sorrowful, this once opulent\nruin conceals the sins of a fallen line."
+            }
+        },
+        {
+            "title": {
+                "name": "Highgate",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "A frail scab of hope holds Nightmare at bay."
+            }
+        },
+        {
+            "title": {
+                "name": "Highgate",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "Survivors huddle 'neath baleful shadows of rot and decay."
+            }
+        },
+        {
+            "title": {
+                "name": "Iceberg",
+                "area type tags": "mountain",
+                "tags": "map,area_with_water,einharmaps,snow_area,bridge_area",
+                "flavour text": "Icy fangs seek tender hulls\nto sink themselves into."
+            }
+        },
+        {
+            "title": {
+                "name": "Infested Valley",
+                "area type tags": "forest",
+                "tags": "map,cannot_be_twinned,einharmaps,rain_area,bridge_area,god_boss_map_area",
+                "flavour text": "Should we feel disgusted at how the weak predate\nthe strong, or should we feel... admiration?"
+            }
+        },
+        {
+            "title": {
+                "name": "Ivory Temple",
+                "area type tags": "temple,forestdark",
+                "tags": "indoors_area,map,einharmaps,wealthy_area,church",
+                "flavour text": "Man and nature intertwined,\nbut only for the chosen few."
+            }
+        },
+        {
+            "title": {
+                "name": "Kaom's Dream",
+                "area type tags": "inland",
+                "tags": "area_with_water,einharfuryhound,kaom_area,otherworldly_story_area",
+                "flavour text": "Fury and flame come to life."
+            }
+        },
+        {
+            "title": {
+                "name": "Kaom's Stronghold",
+                "area type tags": "inland",
+                "tags": "act_boss_area,no_echo,area_with_water,einharfuryhound,kaom_area,otherworldly_story_area,king_boss_area",
+                "flavour text": "A holdfast built of hubris."
+            }
+        },
+        {
+            "title": {
+                "name": "Karui Shores",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "The fates of two peoples now stand reversed, but history has taught the Oriathans humility and the Karui mercy."
+            }
+        },
+        {
+            "title": {
+                "name": "Lair of the Hydra",
+                "area type tags": "urban",
+                "tags": "map,no_echo,cannot_be_twinned,indoors_area,einharmaps,sewer_area",
+                "flavour text": "One of my captors wore many faces,\nyet kept her true face hidden.\nNow she cannot escape her true face."
+            }
+        },
+        {
+            "title": {
+                "name": "Lava Chamber",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,map,delve_chest,einharmaps,fire_area,fire_prison_area,sea_witch_boss_area",
+                "flavour text": "Fiend and fortune-hunter alike turned to ash.\nA sorry alliance of unending agony."
+            }
+        },
+        {
+            "title": {
+                "name": "Lava Lake",
+                "area type tags": "forest",
+                "tags": "map,area_with_water,cannot_be_twinned,einharmaps,fire_area,kitava_area,karui_map",
+                "flavour text": "At the heart of a peaceful, secluded valley,\nan island of burning, consuming fury."
+            }
+        },
+        {
+            "title": {
+                "name": "Leyline",
+                "area type tags": "urban,dungeon",
+                "tags": "indoors_area,map,area_with_water,einharmaps,rain_area,archer_boss_area,sun_nature_area",
+                "flavour text": "Amidst the barren wastes,\na slender strand of life blooms."
+            }
+        },
+        {
+            "title": {
+                "name": "Lioneye's Watch",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "Cold, dank and reeking of infection. That's how Hope fares in Wraeclast."
+            }
+        },
+        {
+            "title": {
+                "name": "Lioneye's Watch",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "The shivering tides bring little hope, only desperation and despair."
+            }
+        },
+        {
+            "title": {
+                "name": "Lookout",
+                "area type tags": "urban",
+                "tags": "map,delve_chest,einharmaps,church,kitava_cultist_area",
+                "flavour text": "A glorious vista once exclusive\nto emperors. Not anymore."
+            }
+        },
+        {
+            "title": {
+                "name": "Maelström of Chaos",
+                "area type tags": "mountain",
+                "tags": "unique_map,map,limited_tempests,area_with_water,map_area_with_open_water,ocean_area,gold_pile_area,merveil_area,sea_witch_boss_area",
+                "flavour text": "Whispers from\na world apart\nSpeak my name\nbeyond the tomb;\nBound within\nthe Maelström's heart,\nWill they grant me\nstrength or doom?"
+            }
+        },
+        {
+            "title": {
+                "name": "Malformation",
+                "area type tags": "cave",
+                "tags": "indoors_area,map,einharmaps,belly_area,vile_areas,piety_area",
+                "flavour text": "Boils swell from the earth.\nFoul malignant flesh\nwithout purpose."
+            }
+        },
+        {
+            "title": {
+                "name": "Maligaro's Sanctum",
+                "area type tags": "sins",
+                "tags": "area_with_water,act_boss_area,otherworldly_story_area",
+                "flavour text": "The inner depths of decadent darkness."
+            }
+        },
+        {
+            "title": {
+                "name": "Mao Kun",
+                "area type tags": "beach,swamp",
+                "tags": "unique_map,map,area_with_water,coast_boat_area,map_area_with_open_water,ocean_area",
+                "flavour text": "The Treasures of the Tides\nwait in agony\nat the End of the World."
+            }
+        },
+        {
+            "title": {
+                "name": "Mausoleum",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,no_echo,delve_chest,einharmaps,mausoleum_area",
+                "flavour text": "A vault for the dead, as if\nthey were valuable. Pathetic."
+            }
+        },
+        {
+            "title": {
+                "name": "Maze",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,einharmaps,vaal_pyramid_area",
+                "flavour text": "They live trapped forever in darkness\nand confusion. We are no different."
+            }
+        },
+        {
+            "title": {
+                "name": "Maze of the Minotaur",
+                "area type tags": "cave,forest",
+                "tags": "map,no_echo,cannot_be_twinned,indoors_area,einharmaps,cave_area",
+                "flavour text": "One of my captors felt no emotion.\nHe did not hesitate to inflict pain.\nNow all he feels is intense, unstoppable agony."
+            }
+        },
+        {
+            "title": {
+                "name": "Mesa",
+                "area type tags": "mountain",
+                "tags": "map,einharmaps,windy_area,bandit_area,sun_nature_area",
+                "flavour text": "Barren and sun-bleached.\nEmptiness as far as\nthe eye can reach."
+            }
+        },
+        {
+            "title": {
+                "name": "Mineral Pools",
+                "area type tags": "swamp",
+                "tags": "map,area_with_water,einharmaps,flooded_area,gold_pile_area,sea_witch_boss_area,crystalline_area,bridge_area,sun_nature_area",
+                "flavour text": "God's jar of raw materials.\nLife lying dormant,\nwaiting to sprout."
+            }
+        },
+        {
+            "title": {
+                "name": "Moon Temple",
+                "area type tags": "temple,urban",
+                "tags": "indoors_area,map,area_with_water,delve_chest,einharmaps,lunaris_area,church",
+                "flavour text": "Night's promises are dark, for\neven the stars must be harvested."
+            }
+        },
+        {
+            "title": {
+                "name": "Mud Geyser",
+                "area type tags": "swamp",
+                "tags": "map,area_with_water,einharmaps,fetid_area,mud_geyser_area,toxic_pool_area",
+                "flavour text": "Filth springs forth like blood\nfrom a severed jugular."
+            }
+        },
+        {
+            "title": {
+                "name": "Museum",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,delve_chest,einharmaps,library_area,relic_area,maligaro_area,unholy_trio_area",
+                "flavour text": "Ancient artifacts and beautiful baubles.\nAll paid for in blood."
+            }
+        },
+        {
+            "title": {
+                "name": "Necropolis",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,einharmaps,necropolis_area",
+                "flavour text": "Even in death, we long to\nbe close to one another."
+            }
+        },
+        {
+            "title": {
+                "name": "Oba's Cursed Trove",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,unique_map,map,limited_tempests,no_boss,ambush_leaguestone,domination_leaguestone,perandus_leaguestone,essence_leaguestone,breach_leaguestone",
+                "flavour text": "&quot;Here the soil is more deadly\nthan any swing of the axe.&quot;\n- Oba of the Karui,\nConqueror of Corruption."
+            }
+        },
+        {
+            "title": {
+                "name": "Olmec's Sanctum",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,unique_map,map,limited_tempests",
+                "flavour text": "They flew, and leapt,\nand clambered over,\nThey crawled, and swam,\nand slithered under.\nStill its ancient secrets\nawait unclaimed\nAnd of this hidden temple,\nonly legends remain."
+            }
+        },
+        {
+            "title": {
+                "name": "Orchard",
+                "area type tags": "forest",
+                "tags": "map,no_echo,einharmaps,has_road_area,garden_area,labyrinth_tileset_area,sun_nature_area",
+                "flavour text": "The fruit that grows from bloody ground tastes sweetest."
+            }
+        },
+        {
+            "title": {
+                "name": "Oriath Docks",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "A final refuge, backed hard against the waves of a raging sea."
+            }
+        },
+        {
+            "title": {
+                "name": "Oriath Square",
+                "area type tags": "city1",
+                "tags": "area_with_water,military_area",
+                "flavour text": "What was once the heart of the city is now the heart of the battle."
+            }
+        },
+        {
+            "title": {
+                "name": "Overgrown Shrine",
+                "area type tags": "temple",
+                "tags": "indoors_area,map,area_with_water,einharmaps,chamber_of_sins_area,maligaro_area,unholy_trio_area,trio_soul_area",
+                "flavour text": "A once great monument,\nnow a forgotten memorial."
+            }
+        },
+        {
+            "title": {
+                "name": "Overseer's Tower",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "Vengeance is the slave's ultimate reward."
+            }
+        },
+        {
+            "title": {
+                "name": "Palace",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,no_echo,delve_chest,einharmaps,sceptre_of_god_area,wealthy_area,dominus_area",
+                "flavour text": "Death forces even the most\ndetermined of despots to\npass the crown."
+            }
+        },
+        {
+            "title": {
+                "name": "Pen",
+                "area type tags": "urban,dungeon",
+                "tags": "indoors_area,map,cannot_be_twinned,einharmaps,prison_area",
+                "flavour text": "Slaves held like cattle. A blood-soaked\nrevolution, just waiting to happen."
+            }
+        },
+        {
+            "title": {
+                "name": "Phantasmagoria",
+                "area type tags": "temple,cave",
+                "tags": "indoors_area,map,einharmaps,belly_area,vile_areas,doedre_area,unholy_trio_area,doedre_map_area",
+                "flavour text": "Every movement is watched,\nrecorded, remembered."
+            }
+        },
+        {
+            "title": {
+                "name": "Pier",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,einharmaps,dock_area,map_area_with_open_water,ocean_area,undying_boss_area",
+                "flavour text": "Man's reach extends into\nthe ocean, clawing at\nits infinite depths."
+            }
+        },
+        {
+            "title": {
+                "name": "Pillars of Arun",
+                "area type tags": "mountain,temple",
+                "tags": "map,unique_map,desert_area",
+                "flavour text": "Man creates where nature cannot."
+            }
+        },
+        {
+            "title": {
+                "name": "Pit",
+                "area type tags": "urban,swamp",
+                "tags": "map,einharmaps,daresso_area,pitfight_area",
+                "flavour text": "Blood turns the soil to mud."
+            }
+        },
+        {
+            "title": {
+                "name": "Pit of the Chimera",
+                "area type tags": "urban",
+                "tags": "map,no_echo,cannot_be_twinned,einharmaps,daresso_area,pitfight_area",
+                "flavour text": "One of my captors hid a beast within his heart.\nNow his true self can be seen by all."
+            }
+        },
+        {
+            "title": {
+                "name": "Plateau",
+                "area type tags": "mountain",
+                "tags": "map,area_with_water,einharmaps,map_area_with_open_water,ocean_area,windy_area,totem_boss_area,sun_nature_area",
+                "flavour text": "Steep cliffs divide where the trees\nmay grow, and where they may not."
+            }
+        },
+        {
+            "title": {
+                "name": "Poorjoy's Asylum",
+                "area type tags": "temple,urban",
+                "tags": "indoors_area,unique_map,map,limited_tempests,area_with_water,thaumaturgy_area,lunaris_blood_area",
+                "flavour text": "Laughs of all the twisted\nEcho through these\nhalls of gold.\nIn this cold forgotten void\nThey wander, forever uncontrolled."
+            }
+        },
+        {
+            "title": {
+                "name": "Port",
+                "area type tags": "urban",
+                "tags": "map,einharmaps,marketplace_area,urban_sarn_area,dock_area,ocean_area,ruined_area,cannot_possess_boss",
+                "flavour text": "The wealthy foolishly battle\nthe ocean for domain."
+            }
+        },
+        {
+            "title": {
+                "name": "Precinct",
+                "area type tags": "urban,swamp",
+                "tags": "map,einharmaps,urban_sarn_area,slums_area,ruined_area,rogue_exile_boss_area",
+                "flavour text": "Crushed together and fenced in,\nto live out their lives like cattle."
+            }
+        },
+        {
+            "title": {
+                "name": "Primordial Blocks",
+                "area type tags": "dungeon,temple",
+                "tags": "map,cannot_be_twinned,einharmaps,crystalline_area,bridge_area",
+                "flavour text": "Who is the true criminal, the one behind\nbars, or the one who tortures him?"
+            }
+        },
+        {
+            "title": {
+                "name": "Primordial Pool",
+                "area type tags": "mountain",
+                "tags": "map,area_with_water,einharmaps,toxic_pool_area",
+                "flavour text": "A dough of bad blood.\nA yeast of ill will."
+            }
+        },
+        {
+            "title": {
+                "name": "Prisoner's Gate",
+                "area type tags": "inland,axis",
+                "tags": "act_boss_area,einhargoatman,has_road_area,goatman_boss_area",
+                "flavour text": "The hunting grounds of a cloven god."
+            }
+        },
+        {
+            "title": {
+                "name": "Prisoner's Gate",
+                "area type tags": "inland,axis",
+                "tags": "has_road_area",
+                "flavour text": "The cliffs watch with goatish eyes."
+            }
+        },
+        {
+            "title": {
+                "name": "Promenade",
+                "area type tags": "urban",
+                "tags": "map,delve_chest,einharmaps,lunaris_outer_area,urban_sarn_area,parapet_area,rain_area,military_area",
+                "flavour text": "Even the greatest achievements\nwill eventually be abandoned."
+            }
+        },
+        {
+            "title": {
+                "name": "Racecourse",
+                "area type tags": "urban",
+                "tags": "map,einharmaps,arena_area,triple_boss_map",
+                "flavour text": "Rats chase their tails for the amusement of fools."
+            }
+        },
+        {
+            "title": {
+                "name": "Reef",
+                "area type tags": "beach,swamp",
+                "tags": "map,area_with_water,cannot_be_twinned,einharmaps,reef_area,ship_graveyard_area,map_area_with_open_water,ocean_area,king_boss_area,god_boss_map_area",
+                "flavour text": "Each plank of rotting wood,\neach dead sailor,\nfeeds the island and makes it grow."
+            }
+        },
+        {
+            "title": {
+                "name": "Residence",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,no_echo,delve_chest,einharmaps,tower_area,wealthy_area,sceptre_of_god_area,undying_boss_area,city_home_map,undyingcultist_map",
+                "flavour text": "Home only to misery now."
+            }
+        },
+        {
+            "title": {
+                "name": "Shavronne's Tower",
+                "area type tags": "prison",
+                "tags": "indoors_area,act_boss_area,no_tempests,delve_chest,prison_area,tower_area,lightning_area,summoner_area,shavronne_area,unholy_trio_area",
+                "flavour text": "Echoes of the past bring new life to an old experiment."
+            }
+        },
+        {
+            "title": {
+                "name": "Shore",
+                "area type tags": "beach",
+                "tags": "map,area_with_water,einharmaps,has_road_area,coast_boat_area,map_area_with_open_water,ocean_area,peaceful_map,karui_map,sun_nature_area",
+                "flavour text": "Each life, each act, as fleeting as footprints in the sand."
+            }
+        },
+        {
+            "title": {
+                "name": "Siege",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,cannot_be_twinned,einharmaps,totem_boss_area,bridge_area,god_boss_map_area,city_home_map",
+                "flavour text": "No rest, no peace, no negotiation. Only War."
+            }
+        },
+        {
+            "title": {
+                "name": "Silo",
+                "area type tags": "urban,dungeon",
+                "tags": "map,einharmaps,indoors_area,fire_area,cannot_be_twinned,kitava_cultist_area,Forge_Area",
+                "flavour text": "Grim blessings whispered in the deepest,\nmost secret of places."
+            }
+        },
+        {
+            "title": {
+                "name": "Spider Forest",
+                "area type tags": "forest",
+                "tags": "map,einharmaps,forest_map_area,bandit_area,alira_area,summoner_area,bandit_area",
+                "flavour text": "Each branch, each leaf,\nan extension of a web\nthat spans sanity."
+            }
+        },
+        {
+            "title": {
+                "name": "Stagnation",
+                "area type tags": "forest,swamp",
+                "tags": "map,einharmaps,rain_area,area_with_water,forest_map_area,toxic_pool_area",
+                "flavour text": "Aided by unrelenting rain,\nrot devours new life at the first fumble."
+            }
+        },
+        {
+            "title": {
+                "name": "Strand",
+                "area type tags": "beach",
+                "tags": "map,area_with_water,einharmaps,lightning_area,coast_boat_area,map_area_with_open_water,ocean_area,bandit_area,kraityn_area,karui_map,ship_graveyard_area",
+                "flavour text": "Nothing good washes up\non this dark shore."
+            }
+        },
+        {
+            "title": {
+                "name": "Sulphur Vents",
+                "area type tags": "mountain",
+                "tags": "map,area_with_water,einharmaps,toxic_pool_area,sun_nature_area",
+                "flavour text": "The creatures that prowl the wildest extremes,\nnature anoints with cruel efficacy to defend her."
+            }
+        },
+        {
+            "title": {
+                "name": "Summit",
+                "area type tags": "urban",
+                "tags": "map,cannot_be_twinned,einharmaps,snow_area,snow_mountain_area,windy_area,goatman_boss_area,god_boss_map_area",
+                "flavour text": "We are swept ever upwards by our ambition,\nwith no thought of what awaits us at the peak."
+            }
+        },
+        {
+            "title": {
+                "name": "Sunken City",
+                "area type tags": "dungeon",
+                "tags": "map,area_with_water,cannot_be_twinned,einharmaps,has_foxes_area,ruined_vaal_city_area,spider_boss_area,god_boss_map_area,city_home_map,arakaali_area",
+                "flavour text": "From the walls, water, and ferns...\nDeath comes crawling on ancient steps."
+            }
+        },
+        {
+            "title": {
+                "name": "Temple",
+                "area type tags": "temple,urban",
+                "tags": "indoors_area,map,area_with_water,delve_chest,einharmaps,solaris_area,wealthy_area,church",
+                "flavour text": "Immaculate white stone rises\nfrom the abyss. Perfection."
+            }
+        },
+        {
+            "title": {
+                "name": "Terrace",
+                "area type tags": "urban",
+                "tags": "map,no_echo,cannot_be_twinned,einharmaps,garden_area,high_gardens_area,god_boss_map_area,sun_nature_area",
+                "flavour text": "A garden on a stone pedestal.\nAn incredible, and foolish, feat."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ancient Pyramid",
+                "area type tags": "inca",
+                "tags": "indoors_area,act_boss_area,no_tempests,delve_chest,einharthornspiders,vaal_pyramid_area",
+                "flavour text": "Two thousand years of regret."
+            }
+        },
+        {
+            "title": {
+                "name": "The Aqueduct",
+                "area type tags": "docks",
+                "tags": "area_with_water,delve_chest,einharvultureparasite,aqueduct_area,military_area",
+                "flavour text": "The rushing lifeblood of a long-dead Empire."
+            }
+        },
+        {
+            "title": {
+                "name": "The Archives",
+                "area type tags": "library",
+                "tags": "indoors_area,delve_chest,library_area,archives_area",
+                "flavour text": "All the knowledge in the Empire could not save them."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ascent",
+                "area type tags": "inland",
+                "tags": "snow_area,snow_mountain_area,military_area",
+                "flavour text": "The greater the rise, the greater the fall."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ashen Fields",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,act_boss_area,einharbeast,fields_area,has_road_area,bandit_area",
+                "flavour text": "Scorched earth and slumbering cinder."
+            }
+        },
+        {
+            "title": {
+                "name": "The Bath House",
+                "area type tags": "catacombs",
+                "tags": "indoors_area,area_with_water,delve_chest",
+                "flavour text": "Hidden sin where revelry thrives."
+            }
+        },
+        {
+            "title": {
+                "name": "The Battlefront",
+                "area type tags": "city3",
+                "tags": "area_with_water,urban_sarn_area,parapet_area,military_area",
+                "flavour text": "Charred flesh and spilled bowels. Sweet and sour."
+            }
+        },
+        {
+            "title": {
+                "name": "The Beacon",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharshieldcrab,einharcrabparasite,lighthouse_area,ocean_area",
+                "flavour text": "An echo of destiny consumes the land."
+            }
+        },
+        {
+            "title": {
+                "name": "The Belly of the Beast",
+                "area type tags": "sewers",
+                "tags": "indoors_area,belly_area,otherworldly_story_area,vile_areas",
+                "flavour text": "Once flushed with the warmness of blood, now festering; consumed by fungal rot."
+            }
+        },
+        {
+            "title": {
+                "name": "The Belly of the Beast Level 1",
+                "area type tags": "sewers",
+                "tags": "indoors_area,no_divine,no_tempests,belly_area,otherworldly_story_area,vile_areas",
+                "flavour text": "Enter the Nightmare."
+            }
+        },
+        {
+            "title": {
+                "name": "The Belly of the Beast Level 2",
+                "area type tags": "sewers",
+                "tags": "indoors_area,no_divine,no_tempests,belly_area,otherworldly_story_area,vile_areas",
+                "flavour text": "Enter the Nightmare."
+            }
+        },
+        {
+            "title": {
+                "name": "The Blood Aqueduct",
+                "area type tags": "docks",
+                "tags": "area_with_water,delve_chest,einharvultureparasite,aqueduct_area,military_area",
+                "flavour text": "A mighty spillway tainted by tarrish blacks and sanguine reds."
+            }
+        },
+        {
+            "title": {
+                "name": "The Boiling Lake",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharscorpion",
+                "flavour text": "These corrosive waters devour both flesh and bone."
+            }
+        },
+        {
+            "title": {
+                "name": "The Bridge Encampment",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "Surviving rodents cling tight to cracks found in the masonry."
+            }
+        },
+        {
+            "title": {
+                "name": "The Brine King's Reef",
+                "area type tags": "shore",
+                "tags": "area_with_water,act_boss_area,einharcrabparasite,reef_area,ship_graveyard_area,ocean_area,king_boss_area",
+                "flavour text": "A coral throne for a salt-soured god."
+            }
+        },
+        {
+            "title": {
+                "name": "The Broken Bridge",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharbeast,einharparasite,has_foxes_area,has_road_area",
+                "flavour text": "The stonework trembles atop this petrified land."
+            }
+        },
+        {
+            "title": {
+                "name": "The Broken Bridge",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharmonkey,has_road_area,kraityn_area",
+                "flavour text": "A pure, soothing river once red and clogged with the victims of war."
+            }
+        },
+        {
+            "title": {
+                "name": "The Canals",
+                "area type tags": "city1",
+                "tags": "area_with_water,kitava_cultist_area",
+                "flavour text": "A man-made rupture from which both blood and water flow."
+            }
+        },
+        {
+            "title": {
+                "name": "The Catacombs",
+                "area type tags": "catacombs",
+                "tags": "indoors_area,einharcavespiders,catacomb_area,summoner_area",
+                "flavour text": "Coughing up the dust of dead devotion."
+            }
+        },
+        {
+            "title": {
+                "name": "The Cathedral Rooftop",
+                "area type tags": "city1",
+                "tags": "act_boss_area,no_echo,no_divine,no_tempests,delve_chest,kitava_area,kitava_cultist_area",
+                "flavour text": "Atop this burning monument to arrogance, Oriath's final hope remains."
+            }
+        },
+        {
+            "title": {
+                "name": "The Cathedral Rooftop",
+                "area type tags": "city1",
+                "tags": "delve_chest,kitava_cultist_area",
+                "flavour text": "From above, the true scope of carnage is clearly espied."
+            }
+        },
+        {
+            "title": {
+                "name": "The Causeway",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einharthornspiders,vaal_ruin_area,has_foxes_area",
+                "flavour text": "Primordial ruins guard antiquarian secrets."
+            }
+        },
+        {
+            "title": {
+                "name": "The Cavern of Anger",
+                "area type tags": "cavern",
+                "tags": "indoors_area,act_boss_area,no_tempests,area_with_water,flooded_area,cave_area,merveil_area",
+                "flavour text": "The air needles the skin with its frigid fury."
+            }
+        },
+        {
+            "title": {
+                "name": "The Cavern of Anger",
+                "area type tags": "cavern",
+                "tags": "indoors_area,area_with_water,einharshieldcrab,einharcrabparasite,flooded_area,cave_area",
+                "flavour text": "Stalactites drip in mourning for an ocean queen."
+            }
+        },
+        {
+            "title": {
+                "name": "The Cavern of Wrath",
+                "area type tags": "cavern",
+                "tags": "indoors_area,act_boss_area,no_tempests,area_with_water,flooded_area,cave_area",
+                "flavour text": "The air needles the skin with its frigid fury."
+            }
+        },
+        {
+            "title": {
+                "name": "The Caverns",
+                "area type tags": "inca",
+                "tags": "indoors_area,act_boss_area,no_tempests,area_with_water,einharbeast,einhardropbear,cave_area",
+                "flavour text": "Two thousand years of regret."
+            }
+        },
+        {
+            "title": {
+                "name": "The Chamber of Innocence",
+                "area type tags": "barracks",
+                "tags": "indoors_area,no_echo,no_divine,no_tempests,act_boss_area,delve_chest",
+                "flavour text": "In this holiest of sanctums, the High Templar communes with God and delivers His divine judgement."
+            }
+        },
+        {
+            "title": {
+                "name": "The Chamber of Sins Level 1",
+                "area type tags": "sins",
+                "tags": "indoors_area,einharcavespiders,chamber_of_sins_area,summoner_area",
+                "flavour text": "Decrepit ruins born again. A lusting evil stalks its halls."
+            }
+        },
+        {
+            "title": {
+                "name": "The Chamber of Sins Level 1",
+                "area type tags": "sins",
+                "tags": "indoors_area,einharcavespiders,chamber_of_sins_area,summoner_area",
+                "flavour text": "Phantom whispers of maniacal passion."
+            }
+        },
+        {
+            "title": {
+                "name": "The Chamber of Sins Level 2",
+                "area type tags": "sins",
+                "tags": "indoors_area,einharcavespiders,chamber_of_sins_area",
+                "flavour text": "Decrepit ruins born again. A lusting evil stalks its halls."
+            }
+        },
+        {
+            "title": {
+                "name": "The Chamber of Sins Level 2",
+                "area type tags": "sins",
+                "tags": "indoors_area,einharcavespiders,chamber_of_sins_area,summoner_area",
+                "flavour text": "Phantom whispers of maniacal passion."
+            }
+        },
+        {
+            "title": {
+                "name": "The City of Sarn",
+                "area type tags": "city1",
+                "tags": "area_with_water,einharinsectspawner,urban_sarn_area",
+                "flavour text": "A harsh light on harsh sights."
+            }
+        },
+        {
+            "title": {
+                "name": "The Climb",
+                "area type tags": "inland",
+                "tags": "area_with_water,archer_boss_area",
+                "flavour text": "The cliffs glower down like judges in session."
+            }
+        },
+        {
+            "title": {
+                "name": "The Coast",
+                "area type tags": "shore",
+                "tags": "area_with_water",
+                "flavour text": "The cliffs echo the hungry madness."
+            }
+        },
+        {
+            "title": {
+                "name": "The Coast",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharshieldcrab,einharfuryhound,act6_karui_area,ocean_area",
+                "flavour text": "The Ancestors return to conquer these shores once again."
+            }
+        },
+        {
+            "title": {
+                "name": "The Control Blocks",
+                "area type tags": "barracks",
+                "tags": "indoors_area,kitava_cultist_area",
+                "flavour text": "Sadists and cut-throats break both bone and brain."
+            }
+        },
+        {
+            "title": {
+                "name": "The Control Blocks",
+                "area type tags": "barracks",
+                "tags": "indoors_area,prison_area",
+                "flavour text": "The illusion of control is swiftly severed by the blade of reality."
+            }
+        },
+        {
+            "title": {
+                "name": "The Coward's Trial",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,unique_map,map,limited_tempests,no_monster_packs,no_strongboxes,cowards_trial,anarchy_leaguestone,torment_leaguestone,warbands_leaguestone,ambush_leaguestone,domination_leaguestone,talisman_leaguestone,perandus_leaguestone,prophecy_leaguestone,essence_leaguestone,breach_leaguestone,crypt_area,necromancer_area",
+                "flavour text": "For his sins\nhe was hunted in his sleep,\njudgement wrought\nof twisted nightmare.\nThe Coward bound\nhis dreams to stone,\nawaiting another to walk\nthe path of true atonement."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crematorium",
+                "area type tags": "crematorium,prison",
+                "tags": "indoors_area,fire_area,fire_prison_area,summoner_area",
+                "flavour text": "Choked with ash and cinder."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crossroads",
+                "area type tags": "southernforest,axis",
+                "tags": "area_with_water,einharbeast,crossroad_area,has_foxes_area,has_road_area",
+                "flavour text": "Ancient cruelty tears through the cobbled intersection."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crossroads",
+                "area type tags": "southernforest,axis",
+                "tags": "area_with_water,einharbeast,has_road_area",
+                "flavour text": "Life struggles where once it bloomed."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crypt",
+                "area type tags": "church",
+                "tags": "indoors_area,einharcavespiders,crypt_area",
+                "flavour text": "Ancestral memories given life, then soured."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crypt Level 1",
+                "area type tags": "church",
+                "tags": "indoors_area,einharcavespiders,crypt_area",
+                "flavour text": "Stones worn smooth by centuries of devotion."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crypt Level 2",
+                "area type tags": "church",
+                "tags": "indoors_area,einharcavespiders,crypt_area,summoner_area",
+                "flavour text": "Stones worn smooth by centuries of devotion."
+            }
+        },
+        {
+            "title": {
+                "name": "The Crystal Veins",
+                "area type tags": "cavern",
+                "tags": "indoors_area,einharcavespiders,mine_area,cave_area,crystal_ore_area,crystalline_area",
+                "flavour text": "Gifts of the Beast, awaiting plunder."
+            }
+        },
+        {
+            "title": {
+                "name": "The Den",
+                "area type tags": "southernforest",
+                "tags": "indoors_area,einharbeast,den_area,cave_area,necromancer_area",
+                "flavour text": "Sodden spores flourish and feast on decaying flesh."
+            }
+        },
+        {
+            "title": {
+                "name": "The Den",
+                "area type tags": "southernforest",
+                "tags": "indoors_area,einharbeast,einharcavespiders,den_area,cave_area",
+                "flavour text": "Hot and sour as the panting of a rabid bear."
+            }
+        },
+        {
+            "title": {
+                "name": "The Descent",
+                "area type tags": "mountain",
+                "tags": "einharmountaingoat,snow_area,snow_mountain_area",
+                "flavour text": "A freezing drop to test one's resolve."
+            }
+        },
+        {
+            "title": {
+                "name": "The Desecrated Chambers",
+                "area type tags": "barracks",
+                "tags": "indoors_area,no_tempests,delve_chest,kitava_cultist_area",
+                "flavour text": "Mad men toil under smoking skies to pervert a holy sanctum."
+            }
+        },
+        {
+            "title": {
+                "name": "The Docks",
+                "area type tags": "docks",
+                "tags": "area_with_water,dock_area,urban_sarn_area,dock_area",
+                "flavour text": "Life pales in the wake of progress."
+            }
+        },
+        {
+            "title": {
+                "name": "The Dread Thicket",
+                "area type tags": "southernforest2",
+                "tags": "indoors_area,act_boss_area,einharmonkey,thicket_area",
+                "flavour text": "Dripping with anger and grief, the ancient thicket weeps."
+            }
+        },
+        {
+            "title": {
+                "name": "The Dread Thicket",
+                "area type tags": "southernforest2",
+                "tags": "indoors_area,einharmonkey,einhardropbear,thicket_area",
+                "flavour text": "Unfettered nature. Unchained ferocity."
+            }
+        },
+        {
+            "title": {
+                "name": "The Dried Lake",
+                "area type tags": "shore",
+                "tags": "act_boss_area,einharvultureparasite,einharsandleaper,dried_lake_area,voll_area,archer_boss_area",
+                "flavour text": "Bones of betrayal, ashes of purity."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ebony Barracks",
+                "area type tags": "barracks",
+                "tags": "area_with_water,lunaris_outer_area,urban_sarn_area,military_area",
+                "flavour text": "Polished surfaces reflect brutal efficiency."
+            }
+        },
+        {
+            "title": {
+                "name": "The Feeding Trough",
+                "area type tags": "city1",
+                "tags": "area_with_water,act_boss_area,no_tempests,kitava_area,kitava_cultist_area",
+                "flavour text": "Cries of torment and pathetic moans as the unholy banquet of flesh continues."
+            }
+        },
+        {
+            "title": {
+                "name": "The Fellshrine Ruins",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharbonerhoa,has_foxes_area,has_road_area,graveyard_area",
+                "flavour text": "A spirit of sadism blemishes the earth."
+            }
+        },
+        {
+            "title": {
+                "name": "The Fellshrine Ruins",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharbonerhoa,has_road_area,graveyard_area,summoner_area",
+                "flavour text": "The ground aches with desecration. The rain tastes of blight."
+            }
+        },
+        {
+            "title": {
+                "name": "The Fetid Pool",
+                "area type tags": "shore",
+                "tags": "area_with_water,fetid_area,necromancer_area",
+                "flavour text": "Sluggish waters simmering with decay."
+            }
+        },
+        {
+            "title": {
+                "name": "The Flooded Depths",
+                "area type tags": "shore",
+                "tags": "indoors_area,area_with_water,flooded_area,cave_area",
+                "flavour text": "Darkness chilled into stillness."
+            }
+        },
+        {
+            "title": {
+                "name": "The Foothills",
+                "area type tags": "mountain",
+                "tags": "einharvultureparasite,einharmountaingoat,desert_area",
+                "flavour text": "The secrets of history lie hidden among layers of dirt and sand."
+            }
+        },
+        {
+            "title": {
+                "name": "The Forest Encampment",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "A remnant of civility in the wild."
+            }
+        },
+        {
+            "title": {
+                "name": "The Grain Gate",
+                "area type tags": "city2",
+                "tags": "area_with_water,einharsandleaper,warehouse_area,urban_sarn_area,slums_area",
+                "flavour text": "A barrier trembles before undying feet."
+            }
+        },
+        {
+            "title": {
+                "name": "The Grand Arena",
+                "area type tags": "barracks",
+                "tags": "act_boss_area,no_echo,einharbull,daresso_area,otherworldly_story_area,arena_area,king_boss_area",
+                "flavour text": "Dripping blood and weeping flowers."
+            }
+        },
+        {
+            "title": {
+                "name": "The Grand Promenade",
+                "area type tags": "city3",
+                "tags": "area_with_water,urban_sarn_area,military_area",
+                "flavour text": "A favourite walk of noble lords, now fallen into disrepair."
+            }
+        },
+        {
+            "title": {
+                "name": "The Harbour Bridge",
+                "area type tags": "city3",
+                "tags": "area_with_water,no_tempests,act_boss_area,urban_sarn_area,solaris_area,lunaris_area",
+                "flavour text": "A dark unrest sends ribbons to war."
+            }
+        },
+        {
+            "title": {
+                "name": "The Harvest",
+                "area type tags": "sewers",
+                "tags": "indoors_area,no_divine,act_boss_area,no_tempests,area_with_water,belly_area,otherworldly_story_area,harvest_area,vile_areas,doedre_area,shavronne_area,maligaro_area,unholy_trio_area",
+                "flavour text": "Where dreams come to die."
+            }
+        },
+        {
+            "title": {
+                "name": "The High Gardens",
+                "area type tags": "gardens",
+                "tags": "act_boss_area,einharspiker,garden_area,high_gardens_area",
+                "flavour text": "Creeping dread chokes life from this thriving terrace."
+            }
+        },
+        {
+            "title": {
+                "name": "The Imperial Fields",
+                "area type tags": "city2",
+                "tags": "area_with_water,einharsandleaper,crossroad_area,fields_area,has_road_area",
+                "flavour text": "The savagery of war stains both muck and mire."
+            }
+        },
+        {
+            "title": {
+                "name": "The Imperial Gardens",
+                "area type tags": "gardens",
+                "tags": "area_with_water,einharspiker,einharkiweth,garden_area,has_road_area,military_area",
+                "flavour text": "Nature outgrows the designs of Man."
+            }
+        },
+        {
+            "title": {
+                "name": "The Karui Fortress",
+                "area type tags": "shore",
+                "tags": "area_with_water,act_boss_area,einharshieldcrab,einharfuryhound,act6_karui_area,fetid_area",
+                "flavour text": "The waters here, once stagnant and foul, now run clear with an ancient bloodlust."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ledge",
+                "area type tags": "inland",
+                "tags": "area_with_water",
+                "flavour text": "Dusty winds laden with the scent of bone, old and otherwise."
+            }
+        },
+        {
+            "title": {
+                "name": "The Library",
+                "area type tags": "library",
+                "tags": "indoors_area,delve_chest,library_area",
+                "flavour text": "All the knowledge in the Empire could not save them."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lower Prison",
+                "area type tags": "prison",
+                "tags": "indoors_area,act_boss_area,no_tempests,prison_area,summoner_area",
+                "flavour text": "Echoes of the past bring new life to an old experiment."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lower Prison",
+                "area type tags": "prison",
+                "tags": "indoors_area,act_boss_area,no_tempests,prison_area,summoner_area",
+                "flavour text": "The air is rich with despair and apparition."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lunaris Concourse",
+                "area type tags": "barracks",
+                "tags": "area_with_water,lunaris_outer_area,urban_sarn_area",
+                "flavour text": "Allegiances falter like the waning of the moon."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lunaris Temple Level 1",
+                "area type tags": "lunaris",
+                "tags": "indoors_area,act_boss_area,no_tempests,area_with_water,delve_chest,lunaris_area",
+                "flavour text": "Depravity is boundless."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lunaris Temple Level 1",
+                "area type tags": "lunaris",
+                "tags": "indoors_area,no_tempests,area_with_water,delve_chest,lunaris_area",
+                "flavour text": "Gibbous beauty eclipsed by a sisters' feud."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lunaris Temple Level 2",
+                "area type tags": "lunaris",
+                "tags": "indoors_area,act_boss_area,no_tempests,area_with_water,delve_chest,lunaris_area,lunaris_blood_area,thaumaturgy_area",
+                "flavour text": "Depravity is boundless."
+            }
+        },
+        {
+            "title": {
+                "name": "The Lunaris Temple Level 2",
+                "area type tags": "lunaris",
+                "tags": "indoors_area,no_tempests,area_with_water,delve_chest,lunaris_area,lunaris_blood_area",
+                "flavour text": "Gibbous beauty eclipsed by a sisters' feud."
+            }
+        },
+        {
+            "title": {
+                "name": "The Marketplace",
+                "area type tags": "city3",
+                "tags": "einharinsectspawner,marketplace_area,urban_sarn_area",
+                "flavour text": "All the money in the world can't stop a world from ending."
+            }
+        },
+        {
+            "title": {
+                "name": "The Mines Level 1",
+                "area type tags": "cavern",
+                "tags": "indoors_area,mine_area,cave_area",
+                "flavour text": "Disease in the darkness."
+            }
+        },
+        {
+            "title": {
+                "name": "The Mines Level 2",
+                "area type tags": "cavern",
+                "tags": "indoors_area,einharcavespiders,mine_area,cave_area",
+                "flavour text": "Disease in the darkness."
+            }
+        },
+        {
+            "title": {
+                "name": "The Mud Flats",
+                "area type tags": "shore",
+                "tags": "area_with_water",
+                "flavour text": "Mud and air seethes with warped life."
+            }
+        },
+        {
+            "title": {
+                "name": "The Mud Flats",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharshieldcrab,einharfuryhound,act6_karui_area,ocean_area",
+                "flavour text": "Mud and blood make a fine war paint."
+            }
+        },
+        {
+            "title": {
+                "name": "The Northern Forest",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einharbeast,einharsnake,einharmonkey,northern_forest_area",
+                "flavour text": "Daylight is the exile here."
+            }
+        },
+        {
+            "title": {
+                "name": "The Northern Forest",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einharbeast,einharsnake,has_foxes_area,dark_forest_area,northern_forest_area",
+                "flavour text": "Wooden sentinels tower above."
+            }
+        },
+        {
+            "title": {
+                "name": "The Oasis",
+                "area type tags": "shore",
+                "tags": "area_with_water,act_boss_area,einharscorpion,desert_area",
+                "flavour text": "A paradise hidden amongst sunbleached bones and blistering dunes."
+            }
+        },
+        {
+            "title": {
+                "name": "The Old Fields",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharbeast,einharmonkey,fields_area,has_road_area,old_fields_area",
+                "flavour text": "Sick pastures, feverish to the touch."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ossuary",
+                "area type tags": "city1",
+                "tags": "indoors_area,delve_chest,catacomb_area,mausoleum_area",
+                "flavour text": "The dead offer thanks, for they have been spared this final savagery."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ossuary",
+                "area type tags": "city1",
+                "tags": "indoors_area,delve_chest,catacomb_area,mausoleum_area",
+                "flavour text": "The faithful dead watch over the city with hollow eyes."
+            }
+        },
+        {
+            "title": {
+                "name": "The Putrid Cloister",
+                "area type tags": "dungeon,temple,urban",
+                "tags": "indoors_area,map,no_strongboxes,unique_map,no_leaguestone,doedre_area,unholy_trio_area,doedre_map_area",
+                "flavour text": "Please take out your blades,\nyour whips, and your spikes.\nClass is now in session."
+            }
+        },
+        {
+            "title": {
+                "name": "The Quarry",
+                "area type tags": "mountain",
+                "tags": "act_boss_area,mine_area",
+                "flavour text": "A monstrous terror stalks chthonic mines, yearning for the boundless sky."
+            }
+        },
+        {
+            "title": {
+                "name": "The Quay",
+                "area type tags": "city3",
+                "tags": "area_with_water,einharsandleaper,marketplace_area,dock_area,urban_sarn_area,quay_area",
+                "flavour text": "The restless dead shift 'neath darkened waters."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ravaged Square",
+                "area type tags": "city1",
+                "tags": "area_with_water,fire_area,kitava_cultist_area",
+                "flavour text": "A flourishing place of trade, barely recognizable amidst the countless deaths."
+            }
+        },
+        {
+            "title": {
+                "name": "The Refinery",
+                "area type tags": "city3",
+                "tags": "warehouse_area",
+                "flavour text": "Madness was visited upon those who dug too deep."
+            }
+        },
+        {
+            "title": {
+                "name": "The Reliquary",
+                "area type tags": "city1",
+                "tags": "indoors_area,delve_chest,relic_area,mausoleum_area",
+                "flavour text": "A trove of shameful relics displayed with pride."
+            }
+        },
+        {
+            "title": {
+                "name": "The Reliquary",
+                "area type tags": "city1",
+                "tags": "indoors_area,delve_chest,relic_area,mausoleum_area",
+                "flavour text": "Empty, broken shelves linger, looted and forgotten in the wake of this horrid war."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ridge",
+                "area type tags": "mountain",
+                "tags": null,
+                "flavour text": "The air is thin, the way is narrow."
+            }
+        },
+        {
+            "title": {
+                "name": "The Riverways",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einhardropbear,einharmonkey,einharparasite,has_foxes_area,has_road_area,river_area,archer_boss_area",
+                "flavour text": "These violent waters carry portents of death."
+            }
+        },
+        {
+            "title": {
+                "name": "The Riverways",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einhardropbear,einharmonkey,has_road_area,river_area",
+                "flavour text": "Once tamed rivers now running free."
+            }
+        },
+        {
+            "title": {
+                "name": "The Rotting Core",
+                "area type tags": "sewers",
+                "tags": "indoors_area,act_boss_area,belly_area,otherworldly_story_area,harvest_area,vile_areas,doedre_area,shavronne_area,maligaro_area,unholy_trio_area",
+                "flavour text": "The putrid interior oozes and spoils."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ruined Square",
+                "area type tags": "city1",
+                "tags": "area_with_water,fire_area,kitava_cultist_area",
+                "flavour text": "Oriath's bleeding heart is the main course in a terrible feast."
+            }
+        },
+        {
+            "title": {
+                "name": "The Sarn Encampment",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "A shaky peace descends, though swords will never rest."
+            }
+        },
+        {
+            "title": {
+                "name": "The Sarn Encampment",
+                "area type tags": null,
+                "tags": null,
+                "flavour text": "The forging ground of heroes, past and present."
+            }
+        },
+        {
+            "title": {
+                "name": "The Sarn Ramparts",
+                "area type tags": "city1",
+                "tags": "area_with_water,einharinsectspawner,urban_sarn_area,slums_area,parapet_area,river_area",
+                "flavour text": "A parapet shakes beneath a billowing sky."
+            }
+        },
+        {
+            "title": {
+                "name": "The Sceptre of God",
+                "area type tags": "scepter",
+                "tags": "indoors_area,act_boss_area,no_tempests,no_echo,delve_chest,delve_chest,einharchimeral,sceptre_of_god_area,tower_area",
+                "flavour text": "The pinnacle of power. The height of hubris."
+            }
+        },
+        {
+            "title": {
+                "name": "The Sewers",
+                "area type tags": "sewers",
+                "tags": "indoors_area,area_with_water,einharcavespiders,sewer_area,vile_areas",
+                "flavour text": "What horrors lurk in the bowels of the city?"
+            }
+        },
+        {
+            "title": {
+                "name": "The Ship Graveyard",
+                "area type tags": "shore",
+                "tags": "area_with_water,ship_graveyard_area",
+                "flavour text": "Whispered agonies of the marooned dead."
+            }
+        },
+        {
+            "title": {
+                "name": "The Ship Graveyard Cave",
+                "area type tags": "shore",
+                "tags": "indoors_area,ship_graveyard_area,cave_area",
+                "flavour text": "A corpse's throat, exhaling death."
+            }
+        },
+        {
+            "title": {
+                "name": "The Slave Pens",
+                "area type tags": "barracks",
+                "tags": "indoors_area,einharmountaingoat,prison_area",
+                "flavour text": "In Oriath's darkest corner, the spark of rebellion ignites."
+            }
+        },
+        {
+            "title": {
+                "name": "The Slums",
+                "area type tags": "city2",
+                "tags": "einharinsectspawner,urban_sarn_area,slums_area",
+                "flavour text": "Only the wind whistles and whines here now."
+            }
+        },
+        {
+            "title": {
+                "name": "The Solaris Concourse",
+                "area type tags": "city3",
+                "tags": "area_with_water,urban_sarn_area,parapet_area",
+                "flavour text": "Conquered by the fog of war."
+            }
+        },
+        {
+            "title": {
+                "name": "The Solaris Temple Level 1",
+                "area type tags": "solaris",
+                "tags": "indoors_area,delve_chest,solaris_area",
+                "flavour text": "An empire at its height, reflected in polished gold."
+            }
+        },
+        {
+            "title": {
+                "name": "The Solaris Temple Level 1",
+                "area type tags": "solaris",
+                "tags": "indoors_area,delve_chest,solaris_area",
+                "flavour text": "Luminary flares extinguished by burning pride."
+            }
+        },
+        {
+            "title": {
+                "name": "The Solaris Temple Level 2",
+                "area type tags": "solaris",
+                "tags": "indoors_area,area_with_water,delve_chest,solaris_area",
+                "flavour text": "An empire at its height, reflected in polished gold."
+            }
+        },
+        {
+            "title": {
+                "name": "The Solaris Temple Level 2",
+                "area type tags": "solaris",
+                "tags": "indoors_area,area_with_water,delve_chest,solaris_area",
+                "flavour text": "Luminary flares extinguished by burning pride."
+            }
+        },
+        {
+            "title": {
+                "name": "The Southern Forest",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,einharmonkey,einharshieldcrab,einharparasite,river_area,southern_forest_area",
+                "flavour text": "Insidious pupa populate under sweltering heat."
+            }
+        },
+        {
+            "title": {
+                "name": "The Southern Forest",
+                "area type tags": "southernforest",
+                "tags": "area_with_water,southern_forest_area",
+                "flavour text": "Lush and humid, sweating violence."
+            }
+        },
+        {
+            "title": {
+                "name": "The Submerged Passage",
+                "area type tags": "shore",
+                "tags": "indoors_area,area_with_water,flooded_area,cave_area",
+                "flavour text": "Slime, shadow, and sharp sharp teeth."
+            }
+        },
+        {
+            "title": {
+                "name": "The Templar Courts",
+                "area type tags": "barracks",
+                "tags": "indoors_area,delve_chest",
+                "flavour text": "Only those with faithful eyes may enter these solemn chambers unbidden."
+            }
+        },
+        {
+            "title": {
+                "name": "The Temple of Decay Level 1",
+                "area type tags": "southernforest2",
+                "tags": "indoors_area,act_boss_area,no_tempests,einharthornspiders,vaal_pyramid_area,temple_of_decay_area,vile_areas",
+                "flavour text": "Arachnoid servants dribble and drool, coveting pilgrim flesh to feed abhorrent desires."
+            }
+        },
+        {
+            "title": {
+                "name": "The Temple of Decay Level 2",
+                "area type tags": "southernforest2",
+                "tags": "indoors_area,area_with_water,no_tempests,act_boss_area,einharthornspiders,vaal_pyramid_area,temple_of_decay_area,vile_areas,arakaali_area",
+                "flavour text": "Arachnoid servants dribble and drool, coveting pilgrim flesh to feed abhorrent desires."
+            }
+        },
+        {
+            "title": {
+                "name": "The Tidal Island",
+                "area type tags": "shore",
+                "tags": "area_with_water",
+                "flavour text": "Despite the warming sun, the breeze here bites with fangs of ice."
+            }
+        },
+        {
+            "title": {
+                "name": "The Tidal Island",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharshieldcrab,ocean_area",
+                "flavour text": "As the tide rises, hope is drowned."
+            }
+        },
+        {
+            "title": {
+                "name": "The Torched Courts",
+                "area type tags": "barracks",
+                "tags": "indoors_area,delve_chest,fire_area,kitava_cultist_area",
+                "flavour text": "Fuelled by blood and chaos, a dark inferno engulfs the halls of justice."
+            }
+        },
+        {
+            "title": {
+                "name": "The Torched Courts",
+                "area type tags": "barracks",
+                "tags": "indoors_area,delve_chest,fire_area,kitava_cultist_area",
+                "flavour text": "Pious priests once dealt cruel justice within these halls, now they both smoulder in silent agony."
+            }
+        },
+        {
+            "title": {
+                "name": "The Toxic Conduits",
+                "area type tags": "sewers",
+                "tags": "indoors_area,area_with_water,act_boss_area,einharcavespiders,sewer_area,vile_areas",
+                "flavour text": "Spells of blood foul the waters below."
+            }
+        },
+        {
+            "title": {
+                "name": "The Tunnel",
+                "area type tags": "cavern",
+                "tags": "indoors_area,einharcavespiders,mine_area,cave_area",
+                "flavour text": "Unspeakable horrors filigree and haunt the nameless dark."
+            }
+        },
+        {
+            "title": {
+                "name": "The Twilight Strand",
+                "area type tags": null,
+                "tags": "no_tempests,area_with_water",
+                "flavour text": "Hope was drowned here."
+            }
+        },
+        {
+            "title": {
+                "name": "The Twilight Strand",
+                "area type tags": "shore",
+                "tags": "area_with_water,einharshieldcrab,lightning_area,ocean_area",
+                "flavour text": "Those that now wash ashore seek no warmth or shelter, only to fill a bottomless void of pain and hunger."
+            }
+        },
+        {
+            "title": {
+                "name": "The Twilight Temple",
+                "area type tags": "temple",
+                "tags": "map,area_with_water,unique_map,solaris_area,lunaris_area,wealthy_area,church",
+                "flavour text": "In the shadow of war,\nall are eclipsed."
+            }
+        },
+        {
+            "title": {
+                "name": "The Upper Prison",
+                "area type tags": "prison",
+                "tags": "indoors_area,act_boss_area,no_tempests,delve_chest,prison_area,summoner_area,necromancer_area",
+                "flavour text": "The air is rich with despair and apparition."
+            }
+        },
+        {
+            "title": {
+                "name": "The Upper Sceptre of God",
+                "area type tags": "scepter",
+                "tags": "indoors_area,act_boss_area,no_tempests,no_echo,delve_chest,delve_chest,einharchimeral,sceptre_of_god_area,tower_area,dominus_area",
+                "flavour text": "The pinnacle of power. The height of hubris."
+            }
+        },
+        {
+            "title": {
+                "name": "The Vaal City",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einharthornspiders,vaal_ruin_area,has_foxes_area",
+                "flavour text": "Ancient and arcane, a civilisation lost to the dust of history."
+            }
+        },
+        {
+            "title": {
+                "name": "The Vaal Ruins",
+                "area type tags": "inca",
+                "tags": "indoors_area,einharthornspiders,vaal_ruin_area",
+                "flavour text": "Shades scratching at imprisoning stone."
+            }
+        },
+        {
+            "title": {
+                "name": "The Vastiri Desert",
+                "area type tags": "shore",
+                "tags": "einharscorpion,desert_area",
+                "flavour text": "Blustering sand, sharper than a bandit's blade."
+            }
+        },
+        {
+            "title": {
+                "name": "The Vinktar Square",
+                "area type tags": "forest,swamp,urban",
+                "tags": "unique_map,map,limited_tempests,area_with_water,lightning_area,rain_area",
+                "flavour text": "To the east, \nit cannot be seen.\nTo the west, \nit cannot be touched.\nTo the south, \nit cannot be remembered.\nAnd to the north, \nit cannot be contained."
+            }
+        },
+        {
+            "title": {
+                "name": "The Weaver's Chambers",
+                "area type tags": "weavers",
+                "tags": "indoors_area,einharthornspiders",
+                "flavour text": "Shrouded in mourning silks."
+            }
+        },
+        {
+            "title": {
+                "name": "The Western Forest",
+                "area type tags": "forestdark",
+                "tags": "einharcavespiders,einharcavespiders,einharmonkey,einharparasite,has_foxes_area,has_road_area",
+                "flavour text": "What madness flitters and creeps through the darkened trees?"
+            }
+        },
+        {
+            "title": {
+                "name": "The Western Forest",
+                "area type tags": "forestdark",
+                "tags": "einharcavespiders,einharmonkey",
+                "flavour text": "Bathed in the cool light of obsession."
+            }
+        },
+        {
+            "title": {
+                "name": "The Wetlands",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,act_boss_area,einharbeast,einharrhoa,einharparasite,has_foxes_area",
+                "flavour text": "A corpulent grub flails mindlessly, infesting the putrescent muck."
+            }
+        },
+        {
+            "title": {
+                "name": "The Wetlands",
+                "area type tags": "southernforest2",
+                "tags": "area_with_water,einharbeast,einharrhoa",
+                "flavour text": "Corrupted waters, pouring from the Mantle above."
+            }
+        },
+        {
+            "title": {
+                "name": "Thicket",
+                "area type tags": "forest",
+                "tags": "indoors_area,map,einharmaps,thicket_area,forest_map_area",
+                "flavour text": "Little light enters.\nNo life escapes."
+            }
+        },
+        {
+            "title": {
+                "name": "Tower",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,map,cannot_be_twinned,delve_chest,einharmaps,tower_area,lightning_area,rain_area,shavronne_area,unholy_trio_area,city_home_map",
+                "flavour text": "We ascend to great heights to commit low acts."
+            }
+        },
+        {
+            "title": {
+                "name": "Tropical Island",
+                "area type tags": "forest",
+                "tags": "map,area_with_water,einharmaps,forest_map_area,tropical_island_area,map_area_with_open_water,ocean_area,peaceful_map,sun_nature_area",
+                "flavour text": "The temptations of paradise\ndraw forth the good\nand the bad alike."
+            }
+        },
+        {
+            "title": {
+                "name": "Underground River",
+                "area type tags": "cave",
+                "tags": "indoors_area,map,einharmaps,cave_area",
+                "flavour text": "Life, like still water, becomes trapped.\nStagnant. Foul."
+            }
+        },
+        {
+            "title": {
+                "name": "Underground Sea",
+                "area type tags": "cave",
+                "tags": "indoors_area,map,area_with_water,einharmaps,flooded_area,cave_area,gold_pile_area,merveil_area,sea_witch_boss_area",
+                "flavour text": "Silent stillness. The waters are\nas cold as they are black."
+            }
+        },
+        {
+            "title": {
+                "name": "Vaal Pyramid",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,einharmaps,vaal_pyramid_area,triple_boss_map",
+                "flavour text": "A good slave is driven by\nonly two thoughts:\nservice and sacrifice."
+            }
+        },
+        {
+            "title": {
+                "name": "Vaal Temple",
+                "area type tags": "dungeon,temple",
+                "tags": "indoors_area,map,cannot_be_twinned,einharmaps,vaal_pyramid_area,triple_boss_map",
+                "flavour text": "Voices. Visions. Violence.\nThey will haunt these grounds for all of eternity."
+            }
+        },
+        {
+            "title": {
+                "name": "Vault",
+                "area type tags": "temple,dungeon",
+                "tags": "indoors_area,map,area_with_water,einharmaps,wealthy_area,gold_pile_area,golem_boss_area,inventing_area",
+                "flavour text": "Wealth beyond imagining,\nlocked beyond reach."
+            }
+        },
+        {
+            "title": {
+                "name": "Vaults of Atziri",
+                "area type tags": "dungeon",
+                "tags": "indoors_area,unique_map,map,no_tempests,no_boss,no_monster_packs,vaults_of_atziri,no_leaguestone,vaal_pyramid_area,wealthy_area,gold_pile_area",
+                "flavour text": "&quot;Should I depart this mortal coil,\nso shall all of my treasures.&quot;\n- Atziri, Queen of the Vaal"
+            }
+        },
+        {
+            "title": {
+                "name": "Volcano",
+                "area type tags": "cave,mountain",
+                "tags": "map,area_with_water,einharmaps,kaom_area,karui_map",
+                "flavour text": "Tremble in the might of the flames."
+            }
+        },
+        {
+            "title": {
+                "name": "Wasteland",
+                "area type tags": "cave,mountain",
+                "tags": "map,einharmaps,wasteland_area,voll_area",
+                "flavour text": "A white bone stripped of its fertile flesh.\nLife spirals towards its end."
+            }
+        },
+        {
+            "title": {
+                "name": "Waterways",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,delve_chest,einharmaps,aqueduct_area,golem_boss_area,peaceful_map",
+                "flavour text": "A river in the sky, far from that\nwhich so desperately needs it."
+            }
+        },
+        {
+            "title": {
+                "name": "Whakawairua Tuahu",
+                "area type tags": "beach",
+                "tags": "unique_map,map,limited_tempests,area_with_water,domination_leaguestone,coast_boat_area,map_area_with_open_water,ocean_area,sea_witch_boss_area,rogue_exile_boss_area,ship_graveyard_area",
+                "flavour text": "We all began life in darkness,\nwe shall all end it there."
+            }
+        },
+        {
+            "title": {
+                "name": "Wharf",
+                "area type tags": "urban",
+                "tags": "map,area_with_water,einharmaps,dock_area,rain_area,map_area_with_open_water,ocean_area,golem_boss_area",
+                "flavour text": "Reach out into the abyss,\nand the abyss reaches back."
+            }
+        }
+    ]
+}

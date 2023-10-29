@@ -1,0 +1,1300 @@
+{
+    "cargoquery": [
+        {
+            "title": {
+                "name": " O' Eternal ",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A symbolic piece of history, from a time when people of all backgrounds united against a common enemy. "
+            }
+        },
+        {
+            "title": {
+                "name": " The Kiss Goodnight ",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Traitorous scum took the life I could've had. I ain't usually the forgiving type, but I feel in this case that I owe him a little gift. "
+            }
+        },
+        {
+            "title": {
+                "name": " The Nameless Play ",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " I heard the script will send any who attempt to perform it mad, but other than that, it is very good. "
+            }
+        },
+        {
+            "title": {
+                "name": "Admiral Darnaw's Papers",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Darnaw is stupid and confident. I am certain he will have recorded his misdeeds. "
+            }
+        },
+        {
+            "title": {
+                "name": "Alchemical Supplies",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Just the usual highly-illegal compounds. Don't drop them. It's fine if you do, but don't. "
+            }
+        },
+        {
+            "title": {
+                "name": "Alira's Amulet",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Segregated by treachery, this artefact longs to be reunited with her sisters."
+            }
+        },
+        {
+            "title": {
+                "name": "Allflame",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Distilled from naked ambition and unfettered obsession, the Allflame emanates a silvern warmth like no other, and engulfs those moths fool enough to embrace it."
+            }
+        },
+        {
+            "title": {
+                "name": "Ammonite Glyph",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "When put to the ear it whispers not of the sea, but long dead incantations."
+            }
+        },
+        {
+            "title": {
+                "name": "Ankh of Eternity",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The amulet, it... whispers to me. Horrible things... "
+            }
+        },
+        {
+            "title": {
+                "name": "Baffling Blueprints",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "...the blueprints for my Extreme Warmth Beam, my Storm Wooing Rod, the Mind Sublimator, and the Unbreakable...!"
+            }
+        },
+        {
+            "title": {
+                "name": "Baleful Gem",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The withering glare of corruption, made corporeal and pellucid in crystal."
+            }
+        },
+        {
+            "title": {
+                "name": "Basilisk Acid",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Nobility once thought to capture the Basilisks and keep them as exotic pets. This only served to fatten the vileness of their hearts, and with a hateful acid that festered inside, the creatures became soured to their very bones."
+            }
+        },
+        {
+            "title": {
+                "name": "Bestel's Manuscript",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A stranger's kiss on a moonlit night. Dost thou believe in love at first sight? "
+            }
+        },
+        {
+            "title": {
+                "name": "Black Venom",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The spider is not defined by how it lives, but by how it kills. - Inquisitor Maligaro"
+            }
+        },
+        {
+            "title": {
+                "name": "Blackguard Personnel Files",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Lost touch with a mate of mine when he got recruited into some secret squad. Just want to see how he's doing. "
+            }
+        },
+        {
+            "title": {
+                "name": "Blood Crucible",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "The gateway of flesh, horror unbound, requires a key of madness and pain."
+            }
+        },
+        {
+            "title": {
+                "name": "Bottled Storm",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " One should not entice the storm; one cannot invite the storm, or give warrant to its tyrant-soul. We survive only by appeasing the storm, with gifts and offerings of adoration. We hope that, in its mercy, it shall pass us by. - Tempestology of the Maraketh, Repudion IV"
+            }
+        },
+        {
+            "title": {
+                "name": "Bust of Gaius Sentari",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The Emperor honours Gaius Sentari as Supreme Servant. A man's thoughts are his shackles. A man's thoughts are his wings. "
+            }
+        },
+        {
+            "title": {
+                "name": "Bust of Hector Titucius",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The Emperor honours Hector Titucius as Supreme Servant. Strength in purpose is strength in deed. "
+            }
+        },
+        {
+            "title": {
+                "name": "Bust of Marceus Lioneye",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The Emperor honours Marceus Lioneye as Supreme Servant. The road to Glory is paved with Sacrifice. "
+            }
+        },
+        {
+            "title": {
+                "name": "Calendar of Fortune",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The King looked upon images swirling atop the ancient stone dial. You look peaceful he told his bride-to-be, So peaceful, asleep in our wedding bed. But in phantasm, she did not slumber, and what he saw was not a place for dreams, rather, a wooden box... about to be closed and lowered into earthy depths. - Maraketh Legend"
+            }
+        },
+        {
+            "title": {
+                "name": "Census Records",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Loved her like she was my own daughter. I just want to know she's safe. "
+            }
+        },
+        {
+            "title": {
+                "name": "Chitus' Plum",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "As succulent as blood, as sweet as power."
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: A Matter of Honour",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "When hope was but a memory, the twin sister Sekhemas Solerai and Lundara arose to unite the Maraketh. They wielded the essence of gold and silver. The Spear is one of the two weapons that forged us. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: A Mundane Sample",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " It supposedly causes enormous plants to grow from almost any soil. The myth claims we need to sacrifice a baby to make it function, but that's a bit grotesque, even for me. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Credit Where Credit's Due",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Never take credit for another man's work. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Disengagement",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " It isn't fair to either of us to keep chasing this dream. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Enoch's Remains",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Enoch deserved better. This is the least I can do. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Enoch's Whereabouts",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Lost touch with a mate of mine when he got recruited into some secret squad. Just want to see how he's doing. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Finding Opal",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Loved her like she was my own daughter. I just want to know she's safe. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Findings for Fidium",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Fidium's fealty to fairness makes him the perfect pawn in my plan. Our plan. Perfect pawn in OUR plan. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Flying False Colours",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Wraeclast is harsh, and the Plains of Vastiri are unforgiving. We Maraketh can ill afford an internal war. We must prove that Nashta is behind these attacks. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Follow the Paper Trail",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Selfishness and hate fuel these kidnappings. It's time we find who is leading them. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Grocery List",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Just the usual highly-illegal compounds. Don't drop them. It's fine if you do, but don't. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Hyrri's Gift",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A symbolic piece of history, from a time when people of all backgrounds united against a common enemy. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Isla's Designs",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "...the blueprints for my Extreme Warmth Beam, my Storm Wooing Rod, the Mind Sublimator, and the Unbreakable...!"
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Isla's Prototypes",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "My inventions, my babies, deserve to be in better hands!"
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Karst's Revenge",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Traitorous scum took the life I could've had. I ain't usually the forgiving type, but I feel in this case that I owe him a little gift. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Opal's Jewels",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Damn near everything I've earned. Worth every little bit. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Rational Tools",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " There is nothing quite so exquisite as a forced confession. The sufferer will say anything to make the pain stop, and that's the point. Guilt is irrelevant. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Slaver's Revenge",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " When you stop viewing someone as a fellow human being, there's little you won't do to forward your agenda. That is what we're dealing with. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Stolen Lockpicks",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " They were me granddaddy's. Could break into any house as quick and silent as a Cardinal's fart. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Admiral's Records",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Darnaw is stupid and confident. I am certain he will have recorded his misdeeds. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Finest Costumes",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Make sure it'll fit a small man, or a very large child. And check for stains! Knew a few people who'd use them for-... ...Just check for stains. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Nameless Play",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " I heard the script will send any who attempt to perform it mad, but that other than that, it is very good. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Negotiation",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " An unusual request. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Rescue",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " I won't be bullied. We must get Hana back. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Vinderi Bomb",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " I wish I could say this was the first time I've forgotten to restock on this thing. I forget what it was, but I'm sure I'll remember by the time we need to get it. Was it beetles? Bottles? I think it began with 'B'. Or it had no 'B'. "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: The Wedding Dress",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Let's just hope she wasn't wearing it when she wandered into the sea! "
+            }
+        },
+        {
+            "title": {
+                "name": "Contract: Trial Run",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The Faridun cannot earn burial in the sky. They have other ways of keeping the dead. "
+            }
+        },
+        {
+            "title": {
+                "name": "Decanter Spiritus",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Man is blinded by the mud of his corporeal self. Only through the transformation of the material into the spiritual can we hope to taste the full body of life. - Malachai the Soulless"
+            }
+        },
+        {
+            "title": {
+                "name": "Deshret's Banner",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "When the sun sets, the plains should be red."
+            }
+        },
+        {
+            "title": {
+                "name": "Dream Furnace",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "The minds of men are but motes on a sea of infinite madness."
+            }
+        },
+        {
+            "title": {
+                "name": "Elixir of Allure",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Famous for her many lovers, those that did not come willing to Atziri, came by liquid persuasion."
+            }
+        },
+        {
+            "title": {
+                "name": "Enoch's Tags",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Enoch deserved better. This is the least I can do. "
+            }
+        },
+        {
+            "title": {
+                "name": "Eye of Conquest",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Weakness must be purged lest it poison the blood of all Karui. - Prayer to Tukohama"
+            }
+        },
+        {
+            "title": {
+                "name": "Eyes of Zeal",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Eyes blazing with holy flame, the Pilgrim saw a great palace descend from the burgeoning sky, its gates barred against the unfaithful."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "A passionate fire that consumes the heart."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Gold of the organ. Green of the throat. Red of the vein."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "In all things living, the light burns bright."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "It is the warmth that draws you ever inward."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The myriad wet rainbow of the Spirit's domain."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The Spirit, it radiates not from above."
+            }
+        },
+        {
+            "title": {
+                "name": "Firefly",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Where rest the truest colours of life."
+            }
+        },
+        {
+            "title": {
+                "name": "Fleet Orders",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Fidium's fealty to fairness makes him the perfect pawn in my plan. Our plan. Perfect pawn in OUR plan. "
+            }
+        },
+        {
+            "title": {
+                "name": "Fumarole Tar",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " I wish I could say this was the first time I've forgotten to restock on this thing. I forget what it was, but I'm sure I'll remember by the time we need to get it. Was it beetles? Bottles? I think it began with 'B'. Or it had no 'B'. "
+            }
+        },
+        {
+            "title": {
+                "name": "Golden Hand",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "An open palm raised in peace, cut down by the slaves of war."
+            }
+        },
+        {
+            "title": {
+                "name": "Golden Page",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A communion... but with what? By all accounts, it wasn't God that the Vaal were trying to reach. - Icius Perandus"
+            }
+        },
+        {
+            "title": {
+                "name": "Golden Page",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A waking Nightmare. Madness of the mind? Or madness of the flesh? - Icius Perandus"
+            }
+        },
+        {
+            "title": {
+                "name": "Golden Page",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Siosa, your Slavery will cause them to overlook you. Your Karui Way will guide you. Your Humanity will shame us all. - Icius Perandus"
+            }
+        },
+        {
+            "title": {
+                "name": "Golden Page",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The Vaal were even more steeped in gem culture than our Emperor and his 'Gemlings'. It's an obsession as old as civilisation itself. - Icius Perandus"
+            }
+        },
+        {
+            "title": {
+                "name": "Greust's Necklace",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A boy becomes a man when he has faced the animal in his heart and wet the forest floor with its blood. - Azmeri Proverb"
+            }
+        },
+        {
+            "title": {
+                "name": "Haliotis Glyph",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Its corrugated surface brings a strange tingle to the fingertips. This is no mere decoration."
+            }
+        },
+        {
+            "title": {
+                "name": "Hapihapi's Charm",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " When you stop viewing someone as a fellow human being, there's little you won't do to forward your agenda. That is what we're dealing with. "
+            }
+        },
+        {
+            "title": {
+                "name": "Hinekora's Hair",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " What we steal in life we repay in death. - Karui Proverb"
+            }
+        },
+        {
+            "title": {
+                "name": "Incandescent Invitation",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "From the corona of an ancient star, the Searing Exarch seeks to master the Atlas."
+            }
+        },
+        {
+            "title": {
+                "name": "Infernal Talc",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " A Virtue Gem is a raging thunderstorm imprisoned within a single raindrop. Infernal Talc simply lets the storm out. - Malachai the Soulless"
+            }
+        },
+        {
+            "title": {
+                "name": "Karst's Lockpicks",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " They were me granddaddy's. Could break into any house as quick and silent as a Cardinal's fart. "
+            }
+        },
+        {
+            "title": {
+                "name": "Kishara's Star",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "To the wily Kishara's eye, a star brighter than the sun."
+            }
+        },
+        {
+            "title": {
+                "name": "Kraityn's Amulet",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "While this artefact resonates with power, it is simply a piece in a larger puzzle."
+            }
+        },
+        {
+            "title": {
+                "name": "Malachai's Entrails",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "My organs tether me to mortality like a chain. This chain holds me from my true potential."
+            }
+        },
+        {
+            "title": {
+                "name": "Malachai's Heart",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "My heart forces blood through my veins. But one who may bleed may die, and death is no fitting end to genius."
+            }
+        },
+        {
+            "title": {
+                "name": "Malachai's Lungs",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "My lungs breathe the same air as the foolish and the weak. May I be yet another step removed from them."
+            }
+        },
+        {
+            "title": {
+                "name": "Maligaro's Map",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Certain maps can only be rendered in the most vivid of viscera. - Inquisitor Maligaro"
+            }
+        },
+        {
+            "title": {
+                "name": "Maligaro's Spike",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Maligaro loved his tools, and took great pains to keep them excruciatingly sharp."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Glennach Cairns",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Glennach Cairns",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Glennach Cairns",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Glennach Cairns",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Haewark Hamlet",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Haewark Hamlet",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Haewark Hamlet",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Haewark Hamlet",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Lira Arthain",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Lira Arthain",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Lira Arthain",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Lira Arthain",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Valdo's Rest",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Valdo's Rest",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Valdo's Rest",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Maven's Invitation: Valdo's Rest",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For those who must not endure it, there may be found a perverse joy in watching the struggle for survival."
+            }
+        },
+        {
+            "title": {
+                "name": "Medicine Chest",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Doctor Shaky Hands Opden travelled with only the finest medicines and antidotes... and a curiously generous supply of opiates."
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment I",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...A golden machine was found broken in the ruins of Wraeclast. Believing it to contain some dark infernal secret, High Templar Venarius asked that I restore it and weaponize whatever powers it might contain... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment II",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Though the device seemed to be mostly functioning, something important appeared to be missing... ...I worked tirelessly in search of answers, until finally, at the base of that cruel device, I fell into a deep, deep sleep... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment III",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...I awoke in the most beautiful of places, and as I wandered this strange new land, I felt a growing sense of realization that I was not alone. A Shade, a whisper of embodied smoke, spoke to me through thoughts and pictures. I found myself enthusiastically volunteering information in detail of Oriath... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment IV",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...The Shade knew of the device - a doorway between my world and the dreamlands. It offered to help me rebuild the missing part, to create a conduit between this beautiful land and Oriath. All that the Shade asked of me was to return the favour... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment IX",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...They called it the Elder. A creature of malignant madness... it cannot be killed. The Watchers built the device to lock tight its kingdom, bringing with them the blade - 'Starforge'. A weapon to give the Elder eternal rest. But the Shade... I must find a way to put a stop to it before it finds a path to freedom... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment V",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Every night, I found myself asleep at the foot of the strange device, awoken to the reality of another world within my own. The Shade taught me how to shape and build things from my imagination, how to transport such phantasmagorical treasures back into the world of man... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment VI",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...The missing part of the great device had finally been formed. The Shade requested its one favour. I was shown images of the past, the Shade as King of the dreamlands, the hateful Watchers of Decay... It led me deep into a cave, to a statue pierced by a sword... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment VII",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Pull the blade from my chest. Free me! the Shade imposed. But doubt entered my mind, and the Shade flew into a fury! I felt my mind torn asunder as images of murder and mutilation were forced upon me. I fled in a panic, cursing myself for ever trusting such a strange creature so blindly... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment VIII",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Months have now passed since the Shade revealed its true nature. Each morning, I lock myself inside my study, searching for some knowledge that might save us. I have found at last, some information on the Watchers of Decay. The truth is so unutterable that I hesitate, even now, to write it down... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment X",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...I've spent every waking hour since, trying to find a way to end this unholy Elder. Within my secret study, I've begun work on a device of my own, tinkering and shaping. When I'm finished, this Elder will never bother our world again. The creature cannot be killed, but maybe... it can be exiled... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment XI",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Lack of progress on the device has given the High Templar cause for suspicion. Clapped in irons, I was lead off to the Theopolis prisons for my insubordination. I must find my way from these chains at all costs. The Elder is coming for us. Only I can save us from this blasphemy that will soon befall Oriath... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment XII",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Venarius, that bastard... he marched me through the streets. His men beat me within an inch of death... I... I told him everything. He demanded that I take all of us into the dreamlands, to meet with the Elder. Using the device, we stepped through, setting foot in the Atlas of Worlds... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment XIII",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...It wasn't long before we were met by the Shade itself. The very essence of the Elder, demanding of me in visions to tell it why I had returned. But before I could answer, Venarius stepped forward and greeted the phantom... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment XIV",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...Before we knew it, we stood at the base of that blasphemous effigy. Pull the sword from my chest. The Elder imposed, and Venarius didn't hesitate. The earth shook in the face of the Elder's reunion with its body. The true scope of the Elder befell the High Templar and his men, and as it began to feed, I began to run... "
+            }
+        },
+        {
+            "title": {
+                "name": "Memory Fragment XV",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " ...I fear this to be the end. Not just the end for me, but the end of all things. The Elder has been freed. Soon it will feast on me... on the rest of the world. It was too late for me. The Elder had to be stopped. I knew of the shaping powers. Only I could have a hope at defeating the Elder... "
+            }
+        },
+        {
+            "title": {
+                "name": "Merveil's Wedding Dress",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Let's just hope she wasn't wearing it when she wandered into the sea! "
+            }
+        },
+        {
+            "title": {
+                "name": "Miasmeter",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " We shall peer at these cosmic wonderments as they wake and writhe within that deep and nameless dark. - Vilenta, 'Miasmeter: A Thesis'"
+            }
+        },
+        {
+            "title": {
+                "name": "Moon Orb",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Moonlight is a wise mother. The moon which bathes us in soft, cooling light, does so with the intent of illuminating our paths. Moonlight is wisdom. Moonlight is life. - The Lunar Verses"
+            }
+        },
+        {
+            "title": {
+                "name": "Nashta's War Journal",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Wraeclast is harsh, and the Plains of Vastiri are unforgiving. We Maraketh can ill afford an internal war. We must prove that Nashta is behind these attacks. "
+            }
+        },
+        {
+            "title": {
+                "name": "Oak's Amulet",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "A relic of a sundered relationship, it awaits reconciliation with its kin."
+            }
+        },
+        {
+            "title": {
+                "name": "Obsidian Key",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The cool blanket of shadows preserves our treasures. - Inquisitor Maligaro"
+            }
+        },
+        {
+            "title": {
+                "name": "Pile of Inexplicable Junk",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "My inventions, my babies, deserve to be in better hands!"
+            }
+        },
+        {
+            "title": {
+                "name": "Poisoned Lockpick",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Never take credit for another man's work. "
+            }
+        },
+        {
+            "title": {
+                "name": "Polaric Invitation",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Once within the grasp of the Black Star, there can be no escape."
+            }
+        },
+        {
+            "title": {
+                "name": "Ribbon Spool",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Machinery makes the minions. Minions make the master."
+            }
+        },
+        {
+            "title": {
+                "name": "Roseus Glyph",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Its pleasing sheen remains even in shadow, as if it were somehow lit from within."
+            }
+        },
+        {
+            "title": {
+                "name": "Screaming Invitation",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "From the heart of the Tangle, the Eater of Worlds reaches out for control of the Atlas."
+            }
+        },
+        {
+            "title": {
+                "name": "Sekhema Feather",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " And how shall we know a sekhema worthy of rule? By the anointing of the Great Roc, under whose wings we grow and soar. - Maraketh Coronation Ritual"
+            }
+        },
+        {
+            "title": {
+                "name": "Sentinel Controller",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "For aeons, ancient constructs have lain dormant, but now their designs are under your control."
+            }
+        },
+        {
+            "title": {
+                "name": "Sewer Keys",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "To enter a city's bowels is to be privy to its best-kept secrets."
+            }
+        },
+        {
+            "title": {
+                "name": "Sign of Purity",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Wrought from blood and gold, Innocence fashioned a weapon of tempered purity, capable of banishing darkness, and bringing order to the chaos in men's hearts."
+            }
+        },
+        {
+            "title": {
+                "name": "Silver Locket",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "From Weylam to Meredith: I shall love thee as I love the sea."
+            }
+        },
+        {
+            "title": {
+                "name": "Slaver's Records",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Selfishness and hate fuel these kidnappings. It's time we find who is leading them. "
+            }
+        },
+        {
+            "title": {
+                "name": "Solerai's Spear",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " When hope was but a memory, the twin sister Sekhemas Solerai and Lundara arose to unite the Maraketh. They wielded the essence of gold and silver. The Spear is one of the two weapons that forged us. "
+            }
+        },
+        {
+            "title": {
+                "name": "Storm Blade",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Garukhan sought madness and knowledge amongst the billowing clouds of a blackened sky. A vulture of pride, she would not be refused, and so the stratosphere divulged unto her eldritch secrets of its tumultuous past."
+            }
+        },
+        {
+            "title": {
+                "name": "Sun Orb",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The sun is a devoted mother. She casts her golden blessings on the crops of the pious and makes barren the fields of heresy. Sunlight is belief. Sunlight is life. - The Solar Verses"
+            }
+        },
+        {
+            "title": {
+                "name": "Templar Uniforms",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Make sure it'll fit a small man, or a very large child. And check for stains! Knew a few people who'd use them for-... ...Just check for stains. "
+            }
+        },
+        {
+            "title": {
+                "name": "Thaumetic Emblem",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "A sigil of thaumaturgy graven in granite."
+            }
+        },
+        {
+            "title": {
+                "name": "Thaumetic Sulphite",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Essence of pure thaumaturgy. Apply with trepidation."
+            }
+        },
+        {
+            "title": {
+                "name": "The Apex",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Though its power has been shared, there is still more the Apex might unlock."
+            }
+        },
+        {
+            "title": {
+                "name": "The Black Flag",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " May the lubbers feel fear in their nethers, and may our blades follow. - Rot-tooth's Rallying Cry"
+            }
+        },
+        {
+            "title": {
+                "name": "The Eye of Desire",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " It is a cruel joke that Man was born with more Intent than Life. - Malachai"
+            }
+        },
+        {
+            "title": {
+                "name": "The Eye of Fury",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Fear becomes Hatred. Hatred becomes Fury. Thus is Man transformed from Martyr to Maker. - Malachai"
+            }
+        },
+        {
+            "title": {
+                "name": "The Mortinomicon Exitio Immortalis",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Hoc sciendo scribo ut verba mea perdant animam meam eternam. Mihi credendum est quod novus deus meus non sit tam divinus quam ipse petit..."
+            }
+        },
+        {
+            "title": {
+                "name": "The Shaper's Key",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "I spent my life shining a light on truth... but some things should remain in darkness, locked away for all eternity."
+            }
+        },
+        {
+            "title": {
+                "name": "The Staff of Purity",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Worry not for the heathens. They are devoid of soul. Made vessels of wrath, they are damned by holy design. - High Templar Avarius"
+            }
+        },
+        {
+            "title": {
+                "name": "The Teardrop",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " T'gnagn iia y r'ngusla ph'tu Tsoatha nga mekghul'an. - Indecipherable verse"
+            }
+        },
+        {
+            "title": {
+                "name": "The Thought Extractor",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " There is nothing quite so exquisite as a forced confession. The sufferer will say anything to make the pain stop, and that's the point. Guilt is irrelevant. "
+            }
+        },
+        {
+            "title": {
+                "name": "Tibbs' Wealth",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Damn near everything I've earned. Worth every little bit. "
+            }
+        },
+        {
+            "title": {
+                "name": "Tolman's Bracelet",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "A craftswoman's ode to fresh hope, a new love."
+            }
+        },
+        {
+            "title": {
+                "name": "Tower Key",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "God will only offer the door. Man must choose whether to open it."
+            }
+        },
+        {
+            "title": {
+                "name": "Trarthan Powder",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " Blow it all down! The emperor must have his gems, no matter the cost! "
+            }
+        },
+        {
+            "title": {
+                "name": "Tukohama's Tooth",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " The belly cannot hunger for what the eyes cannot see. - Karui Proverb"
+            }
+        },
+        {
+            "title": {
+                "name": "Tullina's Engagement Ring",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " It isn't fair to either of us to keep chasing this dream. "
+            }
+        },
+        {
+            "title": {
+                "name": "Valako's Jaw",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " One day you eat the fish. One day you feed the fish. - Karui Proverb"
+            }
+        },
+        {
+            "title": {
+                "name": "Vault Key",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "Some sins were never meant to be remembered..."
+            }
+        },
+        {
+            "title": {
+                "name": "Viridi's Finger",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": " It supposedly causes enormous plants to grow from almost any soil. The myth claims we need to sacrifice a baby to make it function, but that's a bit grotesque, even for me. "
+            }
+        },
+        {
+            "title": {
+                "name": "Viscera Cauldron",
+                "frame type": "quest",
+                "is in game": "0",
+                "flavour text": "Flesh can be as clay to the properly motivated artist."
+            }
+        },
+        {
+            "title": {
+                "name": "Wings of Vastiri",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "And mounting her mighty Roc, Garukhan, holy queen of the sky, descended upon her enemies and their armies of darkness."
+            }
+        },
+        {
+            "title": {
+                "name": "Writhing Invitation",
+                "frame type": "quest",
+                "is in game": "1",
+                "flavour text": "The Infinite Hunger awaits in a cosmic stomach where whole civilisations are digested - but do not die."
+            }
+        }
+    ]
+}
