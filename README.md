@@ -12,6 +12,7 @@ Here is the data that was fully gathered using the queries:
 * Passives (Atlas and Skill Tree)
 * Areas
 * Quest Items (Including Heist)
+* Heist Objectives
 * Prophecies
 * Divination Cards
 * Map Fragments
