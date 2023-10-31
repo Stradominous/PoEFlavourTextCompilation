@@ -101,7 +101,7 @@ https://www.poewiki.net/w/api.php?
         &offset=
             0
 
-Divination Cards
+DIVINATION CARDS
 https://www.poewiki.net/w/api.php?
     action=cargoquery
         &tables=
@@ -120,7 +120,7 @@ https://www.poewiki.net/w/api.php?
         &offset=
             0
 
-Map Fragments
+MAP FRAGMENTS
 https://www.poewiki.net/w/api.php?
     action=cargoquery
         &tables=
@@ -132,6 +132,24 @@ https://www.poewiki.net/w/api.php?
             flavour_text
         &where=
             flavour_text!=%22%22%20AND%20class_id=%22MapFragment%22
+        &limit=
+            500
+        &format=
+            json
+        &offset=
+            0
+
+HEIST OBJECTIVES
+https://www.poewiki.net/w/api.php?
+    action=cargoquery
+        &tables=
+            items
+        &fields=
+            name,
+            is_in_game,
+            flavour_text
+        &where=
+            flavour_text!=%22%22%20AND%20class_id=%22HeistObjective%22
         &limit=
             500
         &format=

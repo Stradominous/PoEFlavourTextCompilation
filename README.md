@@ -53,6 +53,13 @@ If you have any suggestions or change requests, please reach out to me on Discor
         "flavour text": ""
       }
     ],
+    "HeistObjectives": [
+      {
+        "name": "",
+        "is in game": "",
+        "flavour text": ""
+      }
+    ],
     "Prophecies": [
       {
         "name": "",
