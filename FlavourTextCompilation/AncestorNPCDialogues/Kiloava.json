@@ -1,0 +1,622 @@
+[
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaCrashingWaveRandom",
+        "Text": "Crashing wave!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaCrashingWave2",
+        "Text": "Crashing wave!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaValakosIreRandom",
+        "Text": "Valako's ire!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaValakosIre2",
+        "Text": "Valako's ire!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaGaleWindRandom",
+        "Text": "Gale wind!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "AncestralKiloavaGaleWind2",
+        "Text": "Gale wind!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaLikesPlayerIsChampion",
+        "Text": "Makanga!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaNeutralPlayerIsChampion",
+        "Text": "Fight! Fight! Fight!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaDislikesPlayerIsChampion",
+        "Text": "Karui! Karui!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaLikesPlayerLostLast",
+        "Text": "Rise up, outsider!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaNeutralPlayerLostLast",
+        "Text": "Let's see some blood!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaDislikesPlayerLostLast",
+        "Text": "This is going to be a bloodbath!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaLikesPlayerNoRecord",
+        "Text": "Outsider! Kill them all!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaNeutralPlayerNoRecord",
+        "Text": "Someone get me some mead!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaDislikesPlayerNoRecord",
+        "Text": "What's this disgraceful setup?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnAkoya",
+        "Text": "Akoya! Akoya! Akoya!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnIkiaho",
+        "Text": "Boo, Ikiaho! Chill someone else's battlefield!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnKahuturoa",
+        "Text": "Can the turtle be taken down?!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnKaom",
+        "Text": "Kick Kaom right in his massive ego!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnMaata",
+        "Text": "Let's get some real warmongers out there!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnRakiata",
+        "Text": "Move like the ocean, sting like the storm!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnTawhanuku",
+        "Text": "No one ever knows what you're talking about, woman!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnUtula",
+        "Text": "Let's see if Utula really can burn it all down!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsOnAhuana",
+        "Text": "Go wanna-wanna!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerWonLast1",
+        "Text": "I'm going to crush you... like a hurricane!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerLostLast1",
+        "Text": "This should be easy!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerMoreSoldiers1",
+        "Text": "Your army means nothing to me!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerLessSoldiers1",
+        "Text": "You should have brought more warriors!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerMoreItems1",
+        "Text": "Look at all that gear. I'm still going to win!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerLessItems1",
+        "Text": "Did you forget to equip your warriors?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerMoreFieldItems1",
+        "Text": "This battlefield is so cluttered!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaFightBeginsPlayerLessFieldItems1",
+        "Text": "A nice clean battlefield!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry1",
+        "Text": "For Valako!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry2",
+        "Text": "For Valako!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry3",
+        "Text": "Become the storm!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry4",
+        "Text": "Become the storm!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry5",
+        "Text": "Strike!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaWarcry6",
+        "Text": "Strike!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed1",
+        "Text": "How did that happen?!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed2",
+        "Text": "How did that happen?!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed3",
+        "Text": "Oh, come on!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed4",
+        "Text": "Oh, come on!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed5",
+        "Text": "What is going on?!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTeamTotemDestroyed6",
+        "Text": "What is going on?!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed1",
+        "Text": "This is rhoa dung!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed2",
+        "Text": "This is rhoa dung!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed3",
+        "Text": "Cheater! They're cheating!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed4",
+        "Text": "Cheater! They're cheating!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed5",
+        "Text": "Valako ravage you all!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaTotemDestroyed6",
+        "Text": "Valako ravage you all!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed1",
+        "Text": "You're about to lose!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed2",
+        "Text": "You're about to lose!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed3",
+        "Text": "We just keep winning!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed4",
+        "Text": "We just keep winning!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed5",
+        "Text": "So easy!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTeamTotemDestroyed6",
+        "Text": "So easy!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTotemDestroyed1",
+        "Text": "I didn't even break a sweat!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTotemDestroyed2",
+        "Text": "I didn't even break a sweat!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTotemDestroyed3",
+        "Text": "This was hardly a battle!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTotemDestroyed4",
+        "Text": "This was hardly a battle!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaYourTotemDestroyed5",
+        "Text": "Woooo!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentDefeatedYou1",
+        "Text": "I am the greatest of all time!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentDefeatedYou2",
+        "Text": "I am the greatest of all time!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentDefeatedYou3",
+        "Text": "Another victory for me... and Valako!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentDefeatedYou4",
+        "Text": "Another victory for me... and Valako!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentDefeatedYou5",
+        "Text": "Ha ha!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentWhenDefeated1",
+        "Text": "Lucky! You got lucky!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentWhenDefeated2",
+        "Text": "Lucky! You got lucky!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentWhenDefeated3",
+        "Text": "My warriors screwed up! It's their fault!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentWhenDefeated4",
+        "Text": "My warriors screwed up! It's their fault!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentsFromStandsOnMatch1",
+        "Text": "I should show these amateurs a thing or two!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseItem1",
+        "Text": "You hardly deserve Valako's gifts!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseItem2",
+        "Text": "You hardly deserve Valako's gifts!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseItem3",
+        "Text": "Better not use that against me!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseItem4",
+        "Text": "Better not use that against me!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseFieldItem1",
+        "Text": "Pfft."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseFieldItem2",
+        "Text": "Pfft."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseFieldItem3",
+        "Text": "I still can't believe these things are permitted."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentPurchaseFieldItem4",
+        "Text": "I still can't believe these things are permitted."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentInspectRecruits1",
+        "Text": "Valako's finest!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentInspectRecruits2",
+        "Text": "Valako's finest!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentInspectRecruits3",
+        "Text": "The best in all of history!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentInspectRecruits4",
+        "Text": "The best in all of history!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentRecruitRecruit1",
+        "Text": "You won't be disappointed."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentRecruitRecruit2",
+        "Text": "You won't be disappointed."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentRecruitRecruit3",
+        "Text": "Now you have a chance."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentRecruitRecruit4",
+        "Text": "Now you have a chance."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Ikiaho's Defeat",
+        "Text": "You humbled Ikiaho! While she's feeling down, perhaps I'll once again ask her to go through the traditions with me. What's the worst she could say?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Ikiaho's Victory",
+        "Text": "Nobody thaws the frozen heart, as they say."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Kaom's Defeat",
+        "Text": "Ha ha! Kaom of legend, humiliated! What a match!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Kaom's Victory",
+        "Text": "Of course you lost to Kaom. He's Kaom. Why did you even fight him?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Maata's Defeat",
+        "Text": "Congratulations on beating up an old man."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Maata's Victory",
+        "Text": "Ha ha! You got thrashed by an old man! I never thought I'd live to see the day."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Ahuana's Defeat",
+        "Text": "You haven't humbled Ahuana. She was a great leader of the united Karui tribes. You can't even begin to bother her."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Ahuana's Victory",
+        "Text": "Ahuana can't be matched! Arrow in the eye! Yeah!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Akoya's Defeat",
+        "Text": "You only defeated Akoya because she plays fair. Remember that."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Akoya's Victory",
+        "Text": "Akoya! Now there's a Karui woman! What strength!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Kiloava's Defeat",
+        "Text": "You and I both know you cheated against me. Don't speak to me like you're a real competitor."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Kiloava's Victory",
+        "Text": "Ha ha, outsider, I destroyed you!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Match Victory",
+        "Text": "That was a decent match to watch. You're something of a warrior. Just something. Don't get an ego."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Match Loss",
+        "Text": "That defeat must sting! You got crushed!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentOnPurchaseItemAkoya",
+        "Text": "Akoya! Akoya! Yeah!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentOnPurchaseItemAhuana",
+        "Text": "The Ramako Tribe knows how to make the good things!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentOnPurchaseEliteAkoya",
+        "Text": "Don't fight me with that."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaCommentOnPurchaseEliteAhuana",
+        "Text": "Nobody can stand against Ahuana's warriors!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaConversationWithAkoyaOne",
+        "Text": "I am furious! This is an insult to all of us!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaConversationWithAhuanaOne",
+        "Text": "Do you think you will ever reach perfection with a bow, Ahuana?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaConversationWithAhuanaTwo",
+        "Text": "I don't know about that. I'm perfect with my weapon."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaConversationWithAhuanaThree",
+        "Text": "Sometimes, you're so positive, I think you're actually mockingyou know what? I'll just accept the compliment."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaRandomShout1",
+        "Text": "I am the greatest warrior of all time!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaRandomShout2",
+        "Text": "Yeaaaaaaaah!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaRandomShout3",
+        "Text": "Who can stand against the storm?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "KiloavaRandomShout4",
+        "Text": "What time is it? It's Kiloava time!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Kaom",
+        "Text": "Kaom can eat a rumakino berry for all I care. I don't want to talk about him."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Valako",
+        "Text": "I have a complex relationship with Valako. I speak to him, and he remains silent. It's just like my last wife! I joke, but... we're alone. The Karui must forge their own path in this world. Valako is more like our tribe mascot than an actual figure of leadership or aid."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Souls",
+        "Text": "Many think I was 'defeated' by Kaom in some grand battle, but I was seventy-four when he took my head. He essentially bullied an old man. Can you picture my delight when I awoke here in my prime? I know that I give you lots of, what do they say? Shite? Yes, but I'm just overcome with joy at being young and strong again. No harm meant. Oh, and I'm one of the lucky ones. Here, our souls appear as we truly see ourselves. Some of us had some pretty big surprises when they woke up in the Halls of the Dead! Ha ha!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Herald of War",
+        "Text": "They call me the first Herald of War, and indeed I was, but they don't understand. Valako gave a Sign to my people thousands of years ago, a ring with his graven pattern. It passed down from chieftain to chieftain in my tribe. When I put it on, it did something it never had before: it surged with the power of the storm. Valako didn't know me. How could he? The gods were asleep. So, I appointed myself the Herald of War, and I used the power of Valako's Sign to win many great battles. I laid the foundations for Karui unification before Kaom was even an urge in some bastard's loins."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Tribes",
+        "Text": "We all seem neatly divided into our tribes here, but it isn't so. Warriors switch tribes all the time due to marriage, chieftain successions, or simple wanderlust. We Karui are a nomadic people, in the physical and spiritual sense. When I call my tribe the Valako tribe, yes, we are, but at one time we followed Tukohama, and at another Tasalio, and then Valako again before that. Essentially, each god must prove themselves to us the same way we prove ourselves to each other. If a tribe falls on hard times, clearly, their god has failed them, and it may be time for another. We can also call upon any god we wish at any time, so long as we are in good standing as a warrior. Basically, it's like children running amok around the campfire."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Tawhanuku",
+        "Text": "It's funny, outsider. We think we get to choose who we fight. Tawhanuku already knows ahead of time what we will do, mostly. If you fight her, it's because she's chosen to fight you. That doesn't mean she'll win, though. Even Hinekora's vision isn't infallible."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Utula",
+        "Text": "He's an odd tuatara, that one. Seems to think this incredible place is some sort of prison. I for one relish being in my prime again. Maybe he's just angry he's got those crazy bug eyes."
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Maata",
+        "Text": "Ha ha, poor Maata! Because of his true self, he's cursed to be an old man for eternity! Hilarity!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Bloodline",
+        "Text": "Certain arrogant warlords claim my bloodline was ended, but they don't know just how many children I really had... I was something of a madman in my prime! Half the warriors serving under them might be descended from me at this point! Ha ha! Ah... they come to the Halls of the Dead for advice. I tell them to drink, fight, and enjoy life while they have it!"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "The End of Time",
+        "Text": "Have you ever had the feeling, during a rising storm, that the winds and rain might just keep getting stronger and never ebb? That's how the world will end. A great storm will cover the land, and it will just keep raging harder and harder until everything is swept away. Then, as always happens after a big storm, life will burgeon anew. We see it all the time around us. Why would it be any other way?"
+    },
+    {
+        "NPC": "Kiloava",
+        "Id": "Ikiaho",
+        "Text": "Yes, yes, she has a frozen heart. That's all anyone ever talks about. She's turned me down a few times, and I've gone through the traditions with everyone else here, even Rakiata! No disrespect, if it moves, I'll chase it! We're all young againexcept for poor Maata, ha ha!so why shouldn't we enjoy ourselves?"
+    }
+]

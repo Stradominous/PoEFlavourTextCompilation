@@ -1,0 +1,612 @@
+[
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDeathFromOnHighRandom",
+        "Text": "Death from on high!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDeathFromOnHigh2",
+        "Text": "Death from on high!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDeathFromOnHigh3",
+        "Text": "Death from on high!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuChoirOfSoulsRandom",
+        "Text": "Choir of souls!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuChoirOfSouls2",
+        "Text": "Choir of souls!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuChoirOfSouls3",
+        "Text": "Choir of souls!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuChoirOfSouls4",
+        "Text": "Choir of souls!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuLikesPlayerIsChampion",
+        "Text": "A strong chieftain must answer a challenge with blood."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuNeutralPlayerIsChampion",
+        "Text": "A wave may rise or fall, but there is always another."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDislikesPlayerIsChampion",
+        "Text": "The Sun never dawns twice!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuLikesPlayerLostLast",
+        "Text": "A mountain is only imposing until it is climbed."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuNeutralPlayerLostLast",
+        "Text": "Pain is simply the knowledge that you are alive."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDislikesPlayerLostLast",
+        "Text": "The weak envy the strong."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuLikesPlayerNoRecord",
+        "Text": "Mysteries intrigue the mind..."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuNeutralPlayerNoRecord",
+        "Text": "Fate has no favourites."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuDislikesPlayerNoRecord",
+        "Text": "The eyes of the watcher close when they see nothing of interest."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnAkoya",
+        "Text": "Jade idols may dot the battlefield, but only one moves with fierce intent."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnIkiaho",
+        "Text": "The Moon may be cold, but it is not lonely."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnKahuturoa",
+        "Text": "The boulder moves only when it must."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnKaom",
+        "Text": "The volcano's rage is mighty indeed!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnKiloava",
+        "Text": "A storm roils on the horizon."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnMaata",
+        "Text": "The strength of a tree can be measured by an axe!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnRakiata",
+        "Text": "A warrior is as a warrior does."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnUtula",
+        "Text": "Those that hunger for victory will find only a famine."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsOnAhuana",
+        "Text": "The Sun brings winter for love of the Moon."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerWonLast",
+        "Text": "Vengeance is the fire of the soul!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerLostLast",
+        "Text": "Misfortune always comes in threes."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerMoreSoldiers",
+        "Text": "The shore holds countless grains of sand."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerLessSoldiers",
+        "Text": "The desert cactus must be hardy to survive."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerMoreItems",
+        "Text": "The turtle's shell is strong, but heavy."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerLessItems",
+        "Text": "A turtle without its shell is not long for the sea."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerMoreFieldItems",
+        "Text": "The wise plant a forest. The bold fight among the trunks."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuFightBeginsPlayerLessFieldItems",
+        "Text": "A field without walls soon becomes a desert."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry1",
+        "Text": "Under Hinekora's eye, we fight!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry2",
+        "Text": "Under Hinekora's eye, we fight!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry3",
+        "Text": "Forward unto fate!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry4",
+        "Text": "Forward unto fate!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry5",
+        "Text": "Warriors, bring death!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuWarcry6",
+        "Text": "Warriors, bring death!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed1",
+        "Text": "Some must die so that the tribe lives on."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed2",
+        "Text": "Some must die so that the tribe lives on."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed3",
+        "Text": "A tree may fall, but the forest remains!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed4",
+        "Text": "A tree may fall, but the forest remains!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed5",
+        "Text": "All must stand if any are to survive!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTeamTotemDestroyed6",
+        "Text": "All must stand if any are to survive!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed1",
+        "Text": "A tribe lives on beyond the loss of its chieftain."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed2",
+        "Text": "A tribe lives on beyond the loss of its chieftain."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed3",
+        "Text": "The heartbeat stills, but the body remains."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed4",
+        "Text": "The heartbeat stills, but the body remains."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed5",
+        "Text": "It is possible to make no mistakes, but still lose."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuTotemDestroyed6",
+        "Text": "It is possible to make no mistakes, but still lose."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed1",
+        "Text": "Time marches ever closer to the end."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed2",
+        "Text": "Time marches ever closer to the end."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed3",
+        "Text": "Grains of sand fall through the hourglass."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed4",
+        "Text": "Grains of sand fall through the hourglass."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed5",
+        "Text": "The mountain cannot hold back the dawn forever!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTeamTotemDestroyed6",
+        "Text": "The mountain cannot hold back the dawn forever!"
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed1",
+        "Text": "The vultures circle, eager for a meal."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed2",
+        "Text": "The vultures circle, eager for a meal."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed3",
+        "Text": "A chieftain is only as capable as his warriors."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed4",
+        "Text": "A chieftain is only as capable as his warriors."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed5",
+        "Text": "Death begins in the heart."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuYourTotemDestroyed6",
+        "Text": "Death begins in the heart."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentDefeatedYou1",
+        "Text": "Fate speaks. We have no choice but to listen."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentDefeatedYou2",
+        "Text": "Fate speaks. We have no choice but to listen."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentDefeatedYou3",
+        "Text": "Mortality goes hand in hand with Death."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentDefeatedYou4",
+        "Text": "Mortality goes hand in hand with Death."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentWhenDefeated",
+        "Text": "It is not possible to surprise those who keep their eyes truly open.   "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsFromStandsOnMatch1",
+        "Text": "A wise chieftain hopes for the future, but plans for the past.   "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsFromStandsOnMatch2",
+        "Text": "A wise chieftain hopes for the future, but plans for the past.   "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsFromStandsOnMatch3",
+        "Text": "Fate follows the course of an unseen river."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentsFromStandsOnMatch4",
+        "Text": "Fate follows the course of an unseen river."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseItem1",
+        "Text": "A sword is only as sharp as the warrior behind it."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseItem2",
+        "Text": "A sword is only as sharp as the warrior behind it."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseItem3",
+        "Text": "To plow a field, you need a tool..."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseItem4",
+        "Text": "To plow a field, you need a tool..."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseFieldItem1",
+        "Text": "The fruits of victory stem from carefully cultivated grounds. "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseFieldItem2",
+        "Text": "The fruits of victory stem from carefully cultivated grounds.  "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseFieldItem3",
+        "Text": "The future changes with each choice."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentPurchaseFieldItem4",
+        "Text": "The future changes with each choice."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentInspectRecruits1",
+        "Text": "Strength and courage earn glorious fates."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentInspectRecruits2",
+        "Text": "Strength and courage earn glorious fates."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentInspectRecruits3",
+        "Text": "The best weapon is a fellow warrior."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentInspectRecruits4",
+        "Text": "The best weapon is a fellow warrior."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentRecruitRecruit1",
+        "Text": "Wisdom begins with a choice."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentRecruitRecruit2",
+        "Text": "Wisdom begins with a choice."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentRecruitRecruit3",
+        "Text": "Death walks hand in hand with Life."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentRecruitRecruit4",
+        "Text": "Death walks hand in hand with Life."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ikiaho's Defeat",
+        "Text": "The lonely Moon sets on a dark horizon."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ikiaho's Victory",
+        "Text": "Try as they might, mortals may never touch the Moon."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kaom's Defeat",
+        "Text": "There are types of fire other than anger."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kaom's Victory",
+        "Text": "There is no crown big enough to adorn the head of a would-be king."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kiloava's Defeat",
+        "Text": "The more the storm rages, the quicker it passes."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kiloava's Victory",
+        "Text": "A tempest can only be mastered by a veteran sailor."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Utula's Defeat",
+        "Text": "A spark in the underbrush must be stomped out, lest flame find purchase."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Utula's Victory",
+        "Text": "A fire grows when fed."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ahuana's Defeat",
+        "Text": "Clouds may obscure the Sun, but they do not dim it."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ahuana's Victory",
+        "Text": "Weak or strong, the Sun shines upon all with equal warmth."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Tawhanuku's Defeat",
+        "Text": "All things happen exactly as they are meant to."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Tawhanuku's Victory",
+        "Text": "A young tree must learn to bend with the wind if it is to survive the raging storm."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Match Win",
+        "Text": "The desert rose is not meant to grow among the islands, but sometimes, it still blooms."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Match Loss",
+        "Text": "Hope dims under the shadow of pain, but there is always another dawn."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentOnPurchaseItemMaata",
+        "Text": "A planted seed will one day yield a mighty tree."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentOnPurchaseItemKaom",
+        "Text": "Fire was a gift to mortals."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuCommentOnPurchaseEliteMaata",
+        "Text": "Peace and war are fought exactly the same way."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuConversationWithKahuOne",
+        "Text": "The Night is vast, but not without end."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuRandomShout1",
+        "Text": "Stone and steel may still be cleaved in twain by a harder metal."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuRandomShout2",
+        "Text": "The chipmunk chitters ceaselessly when it has an acorn."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuRandomShout3",
+        "Text": "Volcanoes often lie dormant until the appointed hour."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "TawhanukuRandomShout4",
+        "Text": "Death can be delayed, but never defeated."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Death",
+        "Text": "A traveler was walking through a sparse grove. He encountered Tawhoa, who was sitting and meditating. The traveler quietly joined him for a time, watching a seed fall from above and grow into a mighty oak over the course of a century. That oak dropped its own seed, and another titan grew. Eventually, a vast forest emerged around them. Tawhoa opened his eyes and asked if the traveler understood. He replied that he did, save for one thing: some seeds fell, but never grew at all. At this, Tawhoa looked past him. Hinekora was walking the same path. She picked up each seed that never became more, and carried them, with love, in a bowl formed from her dress. The traveler shed a single tear, for he finally understood."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "The End of Time",
+        "Text": "No matter how long it truly ends up being, existence always feels too short a season. Lucky are those who get to do it all over again, once Time begins anew. Fresh-faced, a weapon in hand, facing a savage and untamed land with limitless potential... youth, or something like it, granted to the bold. That is what it means to be alive. The dead will always be here, forever unchanging, locked in a dance we cannot change."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ahuana",
+        "Text": "A great darkness fell upon an island one ill-fated season. A young woman held a torch aloft in the unnatural night, and others crawled their way to her. Along the way, they gathered sticks and branches, hoping to feed her flame. Rather than build a bonfire to be encircled by worried eyes, she had them craft torches of their own, and she shared her light. They went out into the darkness unafraid, but now, they could see each other in the distance."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Akoya",
+        "Text": "A blacksmith was frustrated that she could never forge the same weapon more than once. There was always a different balance, or a slightly different shape. So, she set about making one perfect blade. It took most of her lifetime, but when she was done, she placed it in a clay. The clay became a mold, and from that mold, many perfect blades were forged."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Ikiaho",
+        "Text": "There exists a vast mirror in the ground. To gaze into those perfectly polished waters is to see a mortal soul, with all its flaws and pains laid bare. There is wisdom and counsel to be had, but some do not survive the truth."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kahuturoa",
+        "Text": "A child was throwing rocks into the sea when a great fish washed up. The fish called for aid, and the child carried it back into the water. The fish thanked him, and offered to show him the world beneath the waves. The boy accepted, and held on to its fin. They swam through vast coral palaces and thick swarms of iridescent life. The boy looked on with wonder, laughing all the way, until he began to understand how vast the ocean truly was. He could not let go until the journey was complete, but the journey seemed to be without end. The boy no longer smiled, and was forlorn ever after."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kaom",
+        "Text": "A king was given word by his spies that an attempt was to be made to usurp his throne. He did not know who was behind the plot, so he trusted only his own thoughts. He ruminated on it while he held court, and began seeing dark intent in every comment, every dance, and every laugh. Whenever a shadow moved, he jumped. Whenever a friend gripped his arm, he braced for an attack. Eventually, unable to stand the tension any longer, he ordered his guards to slaughter the entire court. The king was left in a bloody throne room, alone and aghast. Without subjects, he was no longer a king. He was merely a madman."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Kiloava",
+        "Text": "A gull was flying through the sky when it sighted a fish. It dove, but a larger bird snatched it out of the sea. The gull cawed loudly and angrily, and the larger bird dropped the fish. The gull ate well that day. It continued cawing at other birds along the shore, taking what was theirs. Eventually, it saw a great feast laid out near a fire, and it cawed aggressively at the creature beside it. That creature was a Karui woman, far stronger than any bird, and she happily added the gull to her feast.   "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Maata",
+        "Text": "A king and a chieftain met on the battlefield, with great armies arrayed on either side. The king grinned and demanded surrender. The chieftain crossed his arms and gave no response. The king suggested that the two sides part ways in peace. The chieftain glowered and said nothing. Finally, the king begged for the chieftain to depart, and offered great wealth in exchange for mercy. The chieftain touched the axe at his side, considering... but then accepted the offer. No warriors died that day, and no songs would be sung of that conflict, but a great victory was still achieved."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Rakiata",
+        "Text": "A lost sailor was adrift in stormy seas at the edge of the world, too far for Tasalio to come to his aid. He had left his home, his family, and his village, but not willingly. He held onto driftwood for a time without end, overcome with sadness. When he finally washed ashore, he staggered to the nearest village. To his surprise, they recognised him, and greeted him with warmth. Looking in the river, he saw that he had a new face. Here, too, he had a home, and a family. Indeed, he had never left at all. It was he who had never known himself."
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Tawhanuku",
+        "Text": "The jester seeks to trip the chieftain. Not so. A chieftain always knows where she stands. "
+    },
+    {
+        "NPC": "Tawhanuku",
+        "Id": "Utula",
+        "Text": "A greedy farmer once piled hay during a bountiful summer. Ramako's light and Valako's rains were given in equal measure. The farmer believed it would always be so, thus he harvested all that grew within his sight, and gathered it near his home. When the rains withdrew and the land became dry, a stray spark from his hearth burned it all down."
+    }
+]
