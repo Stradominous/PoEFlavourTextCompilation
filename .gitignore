@@ -1,0 +1,5 @@
+# I'm using C# to search the Zodiac and generate JSON objects / files based on results.
+# Perhaps one day I will make this part of the repo, but not at the moment.
+FlavourTextCompilation/Tools
+PoEFlavourTextCompilation.sln
+.vs
