@@ -130,4 +130,5 @@ I wrote some fancy tools to generate JSON based on custom searches you want to d
 I used C# because that's what I know and like working with.
 
 You will need Visual Studio 17.8: https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-preview-3-is-here/
+
 And .NET 8.0: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
