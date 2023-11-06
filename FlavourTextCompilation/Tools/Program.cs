@@ -4,7 +4,7 @@ using Tools.Enums;
 using Tools.Helpers;
 using LocalConstants = Tools.Constants.Constants;
 
-class ProgramTest
+class Program
 {
     private static readonly LocalConstants constants = new LocalConstants();
     
