@@ -1,0 +1,86 @@
+[
+  {
+    "FileName": "Zodiac.json",
+    "UniqueItems": [
+      {
+        "FileName": "UniqueItemData.json",
+        "Name": "Replica Twyzel",
+        "Release Version": "3.12.0",
+        "Flavour Text": " Energy redirected is energy imbalanced. Prototype #78 serves as a prime example. ",
+        "Drop Enabled": "1",
+        "Drop Areas": null,
+        "Mods": "(5-10)% increased Attack Speed,(20-40)% increased Critical Strike Chance,Attacks fire an additional Projectile,(17-21)% increased Spell Damage"
+      },
+      {
+        "FileName": "UniqueItemData.json",
+        "Name": "The Iron Mass",
+        "Release Version": "3.12.0",
+        "Flavour Text": "Lead by example.",
+        "Drop Enabled": "1",
+        "Drop Areas": null,
+        "Mods": "(140-175)% increased Physical Damage,(14-18)% increased Attack Speed,Unholy Might,(20-25)% chance to inflict Withered for 2 seconds on Hit with this Weapon,Summoned Skeleton Warriors and Soldiers wield this Weapon while in your Main Hand,Summoned Skeleton Warriors and Soldiers deal Triple Damage with this Weapon if you've Hit with this Weapon Recently,40% increased Global Accuracy Rating"
+      }
+    ],
+    "QuestItems": [
+    ],
+    "HeistObjectives": [
+    ],
+    "Prophecies": [
+    ],
+    "NPCTextAudioMarch2023": [
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "LabyrinthTrialGlyphChurch",
+        "Text": "Fear gnaws at the entrails of the faithful and the faithless alike. Fear of the unknown. Fear of the future.\r\n\r\nAn empire requires leadership that can assuage those fears, through example, through wisdom, through strength.\r\n\r\nAn emperor lights the way through the darkened caverns of uncertainty."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "NessaMermaidFightIntro5",
+        "Text": "So courageous, such a fine example of womanhood. I simply knew you wouldn't disappoint me. Or my husband. You see, his majesty could never be satiated on his wedding day by one bride alone. Thank you, my new sister. I shall always treasure your company."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "NessaMermaidFightIntro6",
+        "Text": "So courageous, such a fine example of womanhood. I simply knew you wouldn't disappoint me. Or my husband. You see, his majesty could never be satiated on his wedding day by one bride alone. Thank you, my new sister. I shall always treasure your company."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "NessaMermaidFightIntro7",
+        "Text": "So courageous, such a fine example of womanhood. I simply knew you wouldn't disappoint me. Or my husband. You see, his majesty could never be satiated on his wedding day by one bride alone. Thank you, my new sister. I shall always treasure your company."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "HelenaOnAlva",
+        "Text": "With that book on Vaal blood thaumaturgy, Alva has accessed a power scholars have only dreamed of for centuries. Travelling back in time sounds both insane and absurd, yet I've seen her incursions myself.\r\n\r\nIt is both a curse and a blessing that she chooses to employ those incursions solely for personal gain. Yes, we could do so much more with the power to visit the past, but her focused interests also keep the timeline stable. I can't imagine what would happen to us here and now if, for example, we tried to go back and assassinate Malachai to prevent the Cataclysm.\r\n\r\nWould we cease to exist? Or would we simply create a second Wraeclast, one in which the Cataclysm never happened? One could go insane thinking about it..."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "TaneOctaviusCatalysts",
+        "Text": "In alchemy, some changes are almost instantaneous, while others require patience. It probably comes as no surprise that a profession that pursues such fantastical goals as alchemy does not attract the most patient of people. Thus, the discovery of the catalyst -- an additive which accelerates the transformation without influencing it. \r\n\r\nYou might find such an additive useful for seeking out, for example, specific latent properties in certain materials. The sort of thing that could normally take many years."
+      },
+      {
+        "FileName": "NPCTextAudioMarch2023.json",
+        "Id": "OshabiOnRiverEncampment",
+        "Text": "Those who drove me from my home have been driven from theirs. Sometimes nature is cruel, and sometimes nature is fair. I think this is an example of both.\r\n\r\nI suppose Yeena still claims to be the chosen oracle for this \"Spirit.\" Let us refuse to speak of them, the way they refuse to speak of me - and any others they have banished. That is how they remain pure, you see. It is no miracle. They merely banish any who they deem tainted. I imagine they never told you that, did they?"
+      }
+    ],
+    "MapFragments": [
+    ],
+    "Keystones": [
+    ],
+    "DivinationCards": [
+    ],
+    "Areas": [
+    ],
+    "AncestorNPCDialogue": [
+      {
+        "FileName": "AncestorNPCDialogue.json",
+        "NPC": "Utula",
+        "Id": "Kahuturoa's Victory",
+        "Text": "Kahuturoa is a good example of why we must change this place. He hardly cares that he lost to you. I doubt the dumbarse even knows what's going on."
+      }
+    ],
+    "AncestorEquipment": [
+    ]
+  }
+]

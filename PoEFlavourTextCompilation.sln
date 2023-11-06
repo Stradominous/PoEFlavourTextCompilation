@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FlavourTextCompilation", "FlavourTextCompilation", "{0EBB3B17-5D56-4541-BE2D-91B91A3838BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "FlavourTextCompilation\Tools\Tools.csproj", "{CE5009F2-FFF9-432C-9610-15E189F603C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37406711-D283-4898-A60F-B160EC543353}"
+	ProjectSection(SolutionItems) = preProject
+		FlavourTextCompilation\AncestorEquipmentData.json = FlavourTextCompilation\AncestorEquipmentData.json
+		FlavourTextCompilation\AncestorNPCDialogue.json = FlavourTextCompilation\AncestorNPCDialogue.json
+		FlavourTextCompilation\AreaData.json = FlavourTextCompilation\AreaData.json
+		FlavourTextCompilation\DivinationCardData.json = FlavourTextCompilation\DivinationCardData.json
+		FlavourTextCompilation\HeistObjectiveData.json = FlavourTextCompilation\HeistObjectiveData.json
+		FlavourTextCompilation\KeyStoneData.json = FlavourTextCompilation\KeyStoneData.json
+		FlavourTextCompilation\MapFragmentData.json = FlavourTextCompilation\MapFragmentData.json
+		FlavourTextCompilation\NPCTextAudioMarch2023.json = FlavourTextCompilation\NPCTextAudioMarch2023.json
+		FlavourTextCompilation\PoEWikiQueries.txt = FlavourTextCompilation\PoEWikiQueries.txt
+		FlavourTextCompilation\ProphecyData.json = FlavourTextCompilation\ProphecyData.json
+		FlavourTextCompilation\QuestItemData.json = FlavourTextCompilation\QuestItemData.json
+		FlavourTextCompilation\UniqueItemData.json = FlavourTextCompilation\UniqueItemData.json
+		FlavourTextCompilation\Zodiac.json = FlavourTextCompilation\Zodiac.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5009F2-FFF9-432C-9610-15E189F603C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5009F2-FFF9-432C-9610-15E189F603C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5009F2-FFF9-432C-9610-15E189F603C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5009F2-FFF9-432C-9610-15E189F603C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE5009F2-FFF9-432C-9610-15E189F603C0} = {0EBB3B17-5D56-4541-BE2D-91B91A3838BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8837FC9-F615-47A8-9D42-35B0CA4DC3A8}
+	EndGlobalSection
+EndGlobal
