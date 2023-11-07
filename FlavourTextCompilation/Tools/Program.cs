@@ -33,7 +33,7 @@ class Program
             allFilesExist = VerifyFileNamesExist(userFileNames);
         }
 
-        var flavourTextJsonObject = ParseZodiacJsonFile();
+        Zodiac flavourTextJsonObject = ParseZodiacJsonFile();
 
         List<string> searchWords = GetUserSearchInput();
 
@@ -183,15 +183,13 @@ class Program
         return true;
     }
 
-    static FlavourTextJSON ParseZodiacJsonFile()
+    static Zodiac ParseZodiacJsonFile()
     {
         JObject jsonObject = JObject.Parse(File.ReadAllText(@"..\..\..\..\Zodiac.json"));
 
         var objectString = jsonObject.First.First().ToString(Formatting.None);
 
-        var typeName = constants.FileNameDictionary["zodiac.json"];
-
-        return JsonConvert.DeserializeObject(objectString, typeName) as FlavourTextJSON;
+        return JsonConvert.DeserializeObject<Zodiac>(objectString);
     }
 
     static void Retry()

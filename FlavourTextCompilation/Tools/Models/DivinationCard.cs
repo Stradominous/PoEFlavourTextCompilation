@@ -5,7 +5,7 @@ using Tools.Interfaces;
 
 namespace Tools.Models
 {
-    public class DivinationCard : FlavourTextJSON, IFlavourTextJSON
+    public class DivinationCard : IFlavourTextJSON
     {
         public string FileName { get => "DivinationCardData.json"; }
         [JsonProperty(PropertyName = "Name")]
@@ -15,7 +15,42 @@ namespace Tools.Models
         [JsonProperty(PropertyName = "Flavour Text")]
         public string FlavourText { get; set; }
 
-        public override bool FoundWord(string searchString, SearchOptions searchOptions)
+        public bool ContainsAnyString(List<string> searchStrings, SearchOptions searchOptions)
+        {
+            foreach (var searchString in searchStrings)
+            {
+                if (FoundWord(searchString, searchOptions))
+                {
+                    return true;
+                }
+            };
+
+            return false;
+        }
+
+        public bool ContainsAllStrings(List<string> searchStrings, SearchOptions searchOptions)
+        {
+            List<bool> foundStrings = new List<bool>();
+
+            foreach (var searchString in searchStrings)
+            {
+                if (FoundWord(searchString, searchOptions))
+                {
+                    foundStrings.Add(true);
+                }
+            };
+
+            if (foundStrings.Count() == searchStrings.Count())
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public bool FoundWord(string searchString, SearchOptions searchOptions)
         {
             if (searchOptions.MatchWholeWords)
             {

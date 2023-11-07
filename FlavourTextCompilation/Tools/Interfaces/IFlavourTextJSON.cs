@@ -4,7 +4,8 @@ namespace Tools.Interfaces
 {
     public interface IFlavourTextJSON
     {
-        public List<FlavourTextJSON> ContainsAnyString(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions);
-        public List<FlavourTextJSON> ContainsAllStrings(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions);
+        public bool ContainsAnyString(List<string> searchStrings, SearchOptions searchOptions);
+        public bool ContainsAllStrings(List<string> searchStrings, SearchOptions searchOptions);
+        public bool FoundWord(string searchString, SearchOptions searchOptions);
     }
 }

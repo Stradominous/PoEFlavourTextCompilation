@@ -21,7 +21,7 @@ namespace Tools.Helpers
         public List<AncestorNPCDialogue> AncestorNPCDialogue { get; set; }
         public List<AncestorEquipment> AncestorEquipment { get; set; }
 
-        public override List<FlavourTextJSON> ContainsAnyString(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions)
+        public List<FlavourTextJSON> ContainsAnyString(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions)
         {
             List<Type> searchTypes = new List<Type>();
 
@@ -36,7 +36,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         UniqueItems.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as UniqueItem).ToList()
                     : null,
 
@@ -44,7 +43,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         QuestItems.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as QuestItem).ToList()
                     : null,
 
@@ -52,7 +50,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         HeistObjectives.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as HeistObjective).ToList()
                     : null,
 
@@ -60,7 +57,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         Prophecies.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as Prophecy).ToList()
                     : null,
 
@@ -68,7 +64,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         NPCTextAudioMarch2023.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as NPCDialogue).ToList()
                     : null,
 
@@ -76,7 +71,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         MapFragments.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as MapFragment).ToList()
                     : null,
 
@@ -84,7 +78,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         Keystones.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as KeyStone).ToList()
                     : null,
 
@@ -92,7 +85,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         DivinationCards.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as DivinationCard).ToList()
                     : null,
 
@@ -100,7 +92,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         Areas.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as Area).ToList()
                     : null,
 
@@ -108,7 +99,6 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         AncestorNPCDialogue.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as AncestorNPCDialogue).ToList()
                     : null,
 
@@ -116,14 +106,13 @@ namespace Tools.Helpers
                     ? FilterContainsAnyString(
                         AncestorEquipment.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as AncestorEquipment).ToList()
                     : null,
             };
 
             return new List<FlavourTextJSON> { zodiacFiltered };
         }
-        public override List<FlavourTextJSON> ContainsAllStrings(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions)
+        public List<FlavourTextJSON> ContainsAllStrings(List<string> searchStrings, List<string> searchFiles, SearchOptions searchOptions)
         {
             List<Type> searchTypes = new List<Type>();
 
@@ -138,7 +127,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         UniqueItems.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as UniqueItem).ToList()
                     : null,
 
@@ -146,7 +134,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         QuestItems.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as QuestItem).ToList()
                     : null,
 
@@ -154,7 +141,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         HeistObjectives.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as HeistObjective).ToList()
                     : null,
 
@@ -162,7 +148,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         Prophecies.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as Prophecy).ToList()
                     : null,
 
@@ -170,7 +155,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         NPCTextAudioMarch2023.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as NPCDialogue).ToList()
                     : null,
 
@@ -178,7 +162,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         MapFragments.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as MapFragment).ToList()
                     : null,
 
@@ -186,7 +169,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         Keystones.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as KeyStone).ToList()
                     : null,
 
@@ -194,7 +176,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         DivinationCards.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as DivinationCard).ToList()
                     : null,
 
@@ -202,7 +183,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         Areas.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as Area).ToList()
                     : null,
 
@@ -210,7 +190,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         AncestorNPCDialogue.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as AncestorNPCDialogue).ToList()
                     : null,
 
@@ -218,7 +197,6 @@ namespace Tools.Helpers
                     ? FilterContainsAllStrings(
                         AncestorEquipment.Select(item => item as IFlavourTextJSON).ToList(),
                         searchStrings,
-                        searchFiles,
                         searchOptions).Select(item => item as AncestorEquipment).ToList()
                     : null,
             };
